@@ -1,0 +1,484 @@
+{{header
+ | title       = [[../]]
+ | author      = | override_author= [[Portal:Medstar Television|Medstar]]
+ | translator  =
+ | section     = "Crash Course"
+ | previous    = "[[../Cereal Killer|Cereal Killer]]"
+ | next        = "[[../A Leg Up on Crime|A Leg Up on Crime]]"
+ | year        = 2005
+ | notes       = Concerns the 2002 staged traffic collision death of Deborah Hollermann along {{w|Minnesota State Highway 95}} near the city of {{w|Princeton, Minnesota|Princeton}} {{Film|Two Wet Bears.webm|thumbtime=|size=400px}}
+}}
+
+{{ft/s|{{c|{{xxxx-larger|FilmRise}}}}}}
+
+{{ft/d|
+{{ft|Narrator|It looked like a routine traffic accident, until a patrolman with no forensic training suspected something worse. But he couldn't prove it, until a bent steering wheel, a security camera, and a physics calculation showed what really led to a young woman's death.}}
+}}
+
+{{ft/s|{{xxx-larger|FORENSIC FILES}}<br><br>{{gap|10em}}{{smaller|''CRASH COURSE''}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Highway patrolman Tony Snyder was heading home after finishing his night shift when he got a call about a traffic accident on {{w|Minnesota State Highway 95|Route 95}}, just outside of {{w|Princeton, Minnesota}}.}}
+}}
+
+{{ft/i|{{c|WEST<br>{{smaller|MINNESOTA}}<br>{{larger|95}}}}}}
+
+{{ft/d|
+{{ft|Tony Snyder|It was maybe ten miles from my house, so I said I would do it.}}
+}}
+
+{{ft/s|TONY SNYDER<br>{{smaller|State Trooper}}}}
+
+{{ft/d|
+{{ft|Narrator|When Snyder arrived, he saw that there had been a two-vehicle accident. Apparently, a Jeep collided with an abandoned car that had broken down and was parked on the side of the highway.}}
+}}
+
+{{ft/d|
+{{ft|Tony Snyder|When I was met by the deputy, he informed me that one person is deceased, the female passenger in the red Jeep, and the other vehicle that was struck was unoccupied. I could see the ambulance personnel working on a male who was covered in blood, and he was screaming.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|The Jeep driver, Steve Hollermann, was rushed to a nearby hospital. Steve's passenger, his 41-year-old wife, Deborah, was dead.}}
+}}
+
+{{ft/i|{{c|Outpatient Entrance<br>EMERGENCY}}}}
+
+{{ft/d|
+{{ft|Marty Hancer|Everybody knew her. I mean, she was that well loved. There was just disbelief and shock.}}
+}}
+
+{{ft/s|MARTY HANCER<br>{{smaller|Pastor, Trinity {{w|Lutheranism|Lutheran}} Church}}}}
+
+{{ft/d|
+{{ft|Kevin Vance|If you got to know Deb, you liked Deb. She was the life of the party. She was somebody that people gathered around because she was fun to be with.}}
+}}
+
+{{ft/s|KEVIN VANCE<br>{{smaller|Deb Hollermann's brother}}}}
+
+{{ft/d|
+{{ft|Narrator|Steve Hollermann survived the crash with only minor injuries, and toxicology tests revealed no drugs or alcohol in his system. He told investigators that he and Deborah were on their way home from shopping when he inadvertently drove off the highway and struck a parked car.}}
+}}
+
+{{ft/i|{{c|{{w|Mercy Health|{{x-larger|M}}ERCY {{x-larger|H}}EALTH}} {{x-larger|C}}ARE {{x-larger|C}}ENTER}}}}
+
+{{ft/d|
+{{ft|Tony Snyder|I said, "Do you remember what you hit?" and he said, "Yeah, I hit a car." I said, "Do you know where the car was?" He said, "Yes, on the shoulder," and I said, "Did you see the car when you hit it?" He said, "Yeah, I saw the taillights." And I then asked him if he tried to maneuver the vehicle or brake to avoid collision, and he said that he didn't have time to do that.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|The right-front end of Steve's Jeep hit the back-left side of the parked car. Steve said he was driving approximately 60 miles an hour at the time of the accident, and he was wearing his seat belt, but Deborah was not.}}
+}}
+
+{{ft/d|
+{{ft|Eric McBroom|That was out of her character. She was pretty religious about wearing seat belts and made it a point to everyone else that they needed to have theirs on, also.}}
+}}
+
+{{ft/s|ERIC McBROOM<br>{{smaller|Deb Hollermann's son}}}}
+
+{{ft/d|
+{{ft|Narrator|At Deborah's autopsy, the medical examiner found skull fractures, and evidence that her brain had been jolted violently inside her skull from side to side.}}
+}}
+
+{{ft/d|
+{{ft|Jeffrey Edblad|The finding of the pathologist that did the autopsy was that the death was a result of a motor-vehicle accident. The blunt force trauma and the injuries that were observed—the skull fracture, the bruising of the brain—any of those could have been consistent and would have been consistent with being killed in a motor-vehicle crash.}}
+}}
+
+{{ft/s|JEFFREY EDBLAD<br>{{smaller|Prosecutor}}}}
+
+{{ft/i|blunt force trauma}}
+
+{{ft/d|
+{{ft|Narrator|Although patrolman Tony Snyder wasn't a doctor or formally trained in forensic science, he couldn't believe the coroner's report.}}
+}}
+
+{{ft/d|
+{{ft|Tony Snyder|I was sick to my stomach when I heard those words come out of his mouth, because I thought I was at a dead end now. I was not comfortable with it at all, but to be honest with you, I was tore up inside. I couldn't even sleep that night.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Snyder was bothered because this accident didn't seem bad enough to have caused a fatality, as he had seen in so many other accidents.}}
+}}
+
+{{ft/d|
+{{ft|Tony Snyder|I've been to accidents like that where people have... actually, their head had went clean through the windshield, and they're speaking to me when I get there. And this windshield wasn't broke out. It was barely cracked.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|And Snyder thought the amount of blood in the car was inconsistent with Deborah's injuries.}}
+}}
+
+{{ft/d|
+{{ft|Tony Snyder|There was a lot of blood in the vehicle—more blood than I'd ever seen at any accident in my life, and I've been to hundreds of accidents.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|But so had local traffic investigators, and they disagreed with Snyder. They came to the same conclusion as the coroner—that the car crash was an accident. Tony Snyder's options were dwindling, until an anonymous telephone call shed new light on an already mysterious case.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Deborah Hollermann's family was angry with police when they learned some of the details surrounding the car crash that took her life.}}
+}}
+
+{{ft/d|
+{{ft|Kevin Vance|How can there be a car on the side of the road for a couple of days? I mean, isn't it somebody's responsibility to take a car off of a state highway?}}
+}}
+
+{{ft/s|KEVIN VANCE<br>{{smaller|Deb Hollermann's brother}}}}
+
+{{ft/d|
+{{ft|Narrator|Highway patrolman Tony Snyder was less concerned about the abandoned car and more concerned with Steve Hollermann's driving skills. He was convinced there was more to the story than Steve was telling.}}
+}}
+
+{{ft/d|
+{{ft|Tony Snyder|And I asked him if a deer jumped out, if he was playing with his radio knobs, if he was on the cellphone. I'm asking him if he passed out, blacked out, was dizzy, fell asleep. And none of those things were the reason he was off the roadway. He just said he didn't know.}}
+}}
+
+{{ft/s|TONY SNYDER<br>{{smaller|State Trooper}}}}
+
+{{ft/d|
+{{ft|Narrator|Steve told investigators that he and Deborah had been shopping and were heading home when the accident occurred, so Snyder checked Steve's story by reviewing the videos taken by the store's security cameras. They show the Hollermanns at the store that night, but they left several hours earlier than Steve claimed.}}
+}}
+
+{{ft/d|
+{{ft|Tony Snyder|The last store he left was around 7:30 p.m., and I got a call to come to the crash at 10 p.m., so there's quite a bit of time missing to drive 18 or 20 miles.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|In addition, the items the Hollermanns bought at the store weren't in the Jeep at the time of the accident, so where were the Hollermanns between 8 and 10 p.m.? An anonymous telephone call gave Tony Snyder a clue.}}
+}}
+
+{{ft/d|
+{{ft|Tony Snyder|There was no name, no way to get ahold of anybody, but just so you know, somebody called and said, "Steve Hollermann's been having an affair."}}
+}}
+
+{{ft/d|
+{{ft|Christopher Janssen|Well that piqued our interest even more to say, "jeez, there's some more pieces to this that we're unfamiliar with and that we want to look into."}}
+}}
+
+{{ft/s|CHRISTOPHER JANSSEN<br>{{smaller|Sheriff's Investigator}}}}
+
+{{ft/d|
+{{ft|Narrator|Surprisingly, Deborah's friends all knew about the affair, and apparently, so did Deborah.}}
+}}
+
+{{ft/d|
+{{ft|Tony Snyder|She was aware there was an affair going on, and she was going to confront him. That was made clear. Her girlfriends have told us that.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Investigators eventually discovered the identity of Steve's girlfriend. She was employed by the local hospital where Steve worked as a lab supervisor. When questioned, she openly admitted the affair.}}
+}}
+
+{{ft/i|{{gap|2em}}FAIRVIEW<br>{{gap|2em}}{{x-smaller|Northland Medical Center}}
+
+{{rule|12em}}
+
+{{fine|→ {{gap|2em}} Hospital & Clinic Entrance}}<br>{{fine|↑ {{gap|2em}} EMERGENCY}}
+}}
+
+{{ft/d|
+{{ft|Tony Snyder|She basically said that they had been seeing each other for a year, they were in love with each other, they went on outings together, and she admitted that they had sex that day in his cabin.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|The cabin was the Hollermanns' summer home at {{w|Green Lake (Isanti County, Minnesota)|Green Lake}}. It was just a mile and a half from the crash site. With a warrant, investigators searched the cabin and found evidence confirming the story they'd heard from Steve's girlfriend.}}
+}}
+
+{{ft/s|{{c|POLICE VIDEO}}}}
+
+{{ft/d|
+{{ft|Christopher Janssen|You could see a bed where it looked like it had been recently slept in or used in some way.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|And they also discovered that Steve and Deborah had been in the cabin before the car crash. Several items they had purchased that night were in the cabin, so Snyder decided to take a closer look at the Hollermanns' Jeep, as well as the accident scene. Steve said he was driving 60 miles an hour when the accident occurred. {{w|traffic collision reconstruction|Accident-reconstruction}} experts have a way of confirming this. If a parked car is hit, the distance it moves after impact can tell you the speed at which it was hit. It's based on Sir {{w|Isaac Newton}}'s {{w|Newton's laws of motion|laws of physics}}, specifically {{w|conservation of momentum}}. When one object strikes another, as in this demonstration, its momentum is transferred to the other. All things being equal, the speed of the first ball is equal to that of the last. The weight of the two cars plus the friction between the tires and the road surface factor into the analysis.}}
+}}
+
+{{ft/s|{{c|POLICE VIDEO}}}}
+
+{{ft/s|WEIGHT (Kg)}}
+
+{{ft/s|FRICTION}}
+
+{{ft/d|
+{{ft|Paul Skoglund|The {{w|coefficient of friction}} is basically just a measure of how slippery that surface is, so that's a very important piece. The other thing is the angles that are involved with approach and departure from the impact area for vehicles that are involved in a collision like this.}}
+}}
+
+{{ft/s|PAUL SKOGLUND<br>{{smaller|{{w|traffic collision reconstruction|Crash Reconstructionist}}}}}}
+
+{{ft/d|
+{{ft|Narrator|Skoglund used surveying equipment to measure the distance the parked car moved after impact, as well as the angles of impact. A computer program performed the physics calculations, and the result—Steve's Jeep was traveling between 38 and 42 miles per hour when it hit the parked car, not 60 miles per hour as he claimed. These calculations also proved that Steve had enough time to avoid hitting the parked car.}}
+}}
+
+{{ft/d|
+{{ft|Paul Skoglund|He had slightly over two seconds from the time that he left the pavement till the impact.}}
+}}
+
+{{ft/d|
+{{ft|Tony Snyder|He admitted he saw the taillights of the vehicle. He admitted he didn't swerve. He admitted he didn't brake, saying he didn't have time.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|It was obvious that the crash didn't happen the way Steve claimed, but would evidence found inside the Jeep prove it was murder?}}
+}}
+
+{{ft/s|{{c|POLICE VIDEO}}}}
+
+{{ft/d|
+{{ft|Narrator|Investigators now suspected that Deborah Hollermann had been murdered. Her family couldn't believe her husband, Steve, had anything to do with it.}}
+}}
+
+{{ft/d|
+{{ft|Kevin Vance|It was disbelief, going, "Oh my God, the poor guy lost his wife. He's gone through a month of mourning, and now they do this to him?"}}
+}}
+
+{{ft/s|KEVIN VANCE<br>{{smaller|Deb Hollermann's brother}}}}
+
+{{ft/d|
+{{ft|Narrator|But patrolman Tony Snyder feared Steve may have committed the perfect crime.}}
+}}
+
+{{ft/d|
+{{ft|Tony Snyder|I literally didn't sleep at night—several nights. Easter dinner at my mom and dad's, I hardly ate, and they thought I was mad at them or upset with the family or sick or something. I was just so obsessed by this that I couldn't eat, and I was worried that I was running out of options to get this figured out. I was running into a lot of dead ends.}}
+}}
+
+{{ft/s|TONY SNYDER<br>{{smaller|State Trooper}}}}
+
+{{ft/d|
+{{ft|Narrator|Since the original autopsy ruled Deborah's death as accidental, Snyder asked Dr. Janis Amatuzio for a second opinion.}}
+}}
+
+{{ft/d|
+{{ft|Janis Amatuzio|As I looked at those photographs of the vehicle, which I'd not seen before that, and I looked at the injuries, I said, "you know, there's something we don't know here, and I think this case deserves more investigation. There's way too much blood inside the vehicle."}}
+}}
+
+{{ft/s|JANIS AMATUZIO, {{w|Doctor of Medicine|M.D.}}<br>{{smaller|{{w|forensic pathology|Forensic Pathologist}}}}}}
+
+{{ft/d|
+{{ft|Narrator|Dr. Amatuzio wanted to examine the Hollermanns' Jeep herself.}}
+}}
+
+{{ft/i|{{c|MIDWEST<br>{{w|forensic pathology|FORENSIC<br>PATHOLOGY}}<br><br>CORONER FOR COUNTIES OF<br><br>{{w|Anoka County, Minnesota|ANOKA}}<br>{{w|Crow Wing County, Minnesota|CROW WING}}<br>{{w|Meeker County, Minnesota|MEEKER}}<br>{{w|Mille Lacs County, Minnesota|MILLE LACS}}<br>{{w|Wright County, Minnesota|WRIGHT}}}}}}
+
+{{ft/d|
+{{ft|Janis Amatuzio|Because, let's face it—Steve Hollermann's future was at stake here, and the truth about Deborah Hollermann's death was at stake. The most important thing for everybody to remember is that what we were trying to get at was the truth.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Dr. Amatuzio was approximately the same size and weight as Deborah, so she did something extraordinary. She donned protective clothing and climbed into the blood-stained car.}}
+}}
+
+{{ft/d|
+{{ft|Janis Amatuzio|It was a little creepy. It was sobering. I realized I was sitting on the last spot that Deborah Hollermann had been sitting before she died.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|The first thing she noticed was the blood smear on the windshield had what looked like a fabric pattern.}}
+}}
+
+{{ft/d|
+{{ft|Janis Amatuzio|In fact, it looked like the heavy-knit sweater that Deborah had been wearing at the time that she died.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|This was a key finding, because it proved that Deborah was bleeding before the crash occurred.}}
+}}
+
+{{ft/d|
+{{ft|Janis Amatuzio|The only way that that much blood could have been deposited on the inside of the vehicle at the time of the crash was if Deborah Hollermann had been bloody before the crash. In other words, she had been injured before the crash. That is the only way that she could have gotten that much blood onto her sweater, onto her hair, onto her face.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|And there was more evidence that Deborah was bleeding before the crash.}}
+}}
+
+{{ft/s|{{c|POLICE VIDEO}}}}
+
+{{ft/d|
+{{ft|Tony Snyder|On the passenger-side rear window, you could see where blood had {{SIC|came|come}} from the seat and was running down the window.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|The L-shaped pattern demonstrated once again the physics of momentum. When blood drips down the window of a Jeep traveling at 40 miles per hour and it stops abruptly, everything in the Jeep, including the blood, continues to move forward. Scientists believe that's what caused this L-shaped pattern. The final three pieces of evidence were crucial to understanding events before and after the crash. Deborah's blood was found on the lever used to adjust the driver's seat.}}
+}}
+
+{{ft/d|
+{{ft|Jeffrey Edblad|The driver's seat where Steven Hollermann was seated was pushed as far back as the seat could go.}}
+}}
+
+{{ft/s|JEFFREY EDBLAD<br>{{smaller|Prosecutor}}}}
+
+{{ft/d|
+{{ft|Narrator|The steering wheel was bent, and investigators found Steve's bloody shoe print on the passenger-side window. This indicated that Steve moved his seat back after he was in contact with Deborah's blood, then grabbed the steering wheel to brace himself for the crash. The evidence also proved that Steve Hollermann tried to break the passenger window after the crash.}}
+}}
+
+{{ft/d|
+{{ft|Tony Snyder|My opinion is he was trying to break the window out at the accident scene. He needed glass, because there was a lot of blood and there was no glass anywhere.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Lastly, Dr. Amatuzio discovered what really caused Deborah's death.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Forensic experts found what they believed was the murder weapon used to kill Deborah Hollermann. It was the knob used to adjust the passenger-side mirror.}}
+}}
+
+{{ft/d|
+{{ft|Janis Amatuzio|That adjustment knob was caked with blood, and long, brown hairs. It was clear to me that that adjustment knob was the instrument that created the injury pattern of the four lacerations, or tears, on her scalp and, in all likelihood, caused the depressed skull fractures.}}
+}}
+
+{{ft/s|JANIS AMATUZIO, {{w|Doctor of Medicine|M.D.}}<br>{{smaller|{{w|forensic pathology|Forensic Pathologist}}}}}}
+
+{{ft/d|
+{{ft|Narrator|This proved that Steve killed Deborah by hitting her head repeatedly against the knob.}}
+}}
+
+{{ft/d|
+{{ft|Tony Snyder|It was a severe beating. It was severe.}}
+}}
+
+{{ft/s|TONY SNYDER<br>{{smaller|State Trooper}}}}
+
+{{ft/d|
+{{ft|Janis Amatuzio|So when death is the result of an assault, we classify it as a homicide.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Steve Hollermann was arrested and charged with Deborah's murder.}}
+}}
+
+{{ft/d|
+{{ft|Tony Snyder|He acted surprised, dumbfounded that he was under arrest. When I cuffed him and put him in my car, he was like, "Tony!" He wanted to talk to me. He was calling me. "Tony," you know, "why is this, why is that?" — like we were friends.}}
+}}
+
+{{ft/d|
+{{ft|Kevin Vance|I drove down to a park and sat in my car and read the criminal complaint, word for word, and the visions of the pictures really showed themselves when you read what they had discovered.}}
+}}
+
+{{ft/s|KEVIN VANCE<br>{{smaller|Deb Hollermann's brother}}}}
+
+{{ft/d|
+{{ft|Narrator|Steve Hollermann's lover admitted spending the afternoon with Steve at the couple's summer cabin. Later that night, around 7 p.m., Steve and his wife, Deborah, went shopping together and took their purchases to the cabin. Deborah may have found evidence that Steve had been there earlier with his lover. Regardless, the forensic evidence suggests an argument ensued, and it turned violent.}}
+}}
+
+{{ft/d|
+{{ft|Deborah Hollermann|We're through!}}
+}}
+
+{{ft/d|
+{{ft|Narrator|While in the Jeep, Steve repeatedly smashed Deborah's head into the mirror knob and side window causing the brain injuries that killed her. Then Steve tried to devise a plan to cover up the crime. While driving home, he saw the parked car along the side of the highway and decided to stage an accident. He got the Jeep into position, moved his seat back with his bloody hands, made sure his seat belt was fastened while Deborah's wasn't, then braced himself for impact. The Jeep traveled 130 feet at 40 miles per hour directly into the back-left side of the parked car. Deborah's arm and bloody sweater struck the windshield, proof that she was bleeding before the crash. After the crash, Steve tried to break the side window to make the crash look worse, but a passing motorist stopped to help before Steve could do it.}}
+}}
+
+{{ft/d|
+{{ft|Tony Snyder|I'm convinced that he contrived a plan to try to cover it up. Whether he had that already figured out before he assaulted her and killed her, I believe that he did come up with a plan to cover it up, to make it look like she died in that car crash.}}
+}}
+
+{{ft/d|
+{{ft|Eric McBroom|We found out a lot of things pretty quickly, you know, as far as, like, the speed limit he was traveling at and the positioning of his seat and a lot of the things, you know. You know, I guess after, you know, we found out about the beating and that kind of stuff that happened that night, I guess nothing was really a surprise after that, you know?}}
+}}
+
+{{ft/s|ERIC McBROOM<br>{{smaller|Deb Hollermann's son}}}}
+
+{{ft/d|
+{{ft|Narrator|At the trial, Steve pleaded not guilty. He admitted striking Deborah during an argument but said he was driving her to the hospital for treatment when the accident occurred. The judge didn't buy it. Steve Hollermann was convicted of second-degree murder and sentenced to 30 years in prison.}}
+}}
+
+{{ft/d|
+{{ft|Jeffrey Edblad|The most fascinating case that I've dealt with in my 15 years as an attorney.}}
+}}
+
+{{ft/s|JEFFREY EDBLAD<br>{{smaller|Prosecutor}}}}
+
+{{ft/d|
+{{ft|Janis Amatuzio|If you look long enough, pretty soon the scene begins to speak to you. It really just depends on the amount of attention that you give it. It's really meticulous attention to detail. I've learned over the years that if we look hard, we will eventually get to the answers.}}
+}}
+
+{{ft/s|JANIS AMATUZIO, {{w|Doctor of Medicine|M.D.}}<br>{{smaller|{{w|forensic pathology|Forensic Pathologist}}}}}}
+
+{{ft/d|
+{{ft|Narrator|Without a careful look at the evidence and the use of science to reconstruct the crash, Deborah Hollermann's death might have remained an accident, and her husband would have walked free.}}
+}}
+
+{{ft/d|
+{{ft|Kevin Vance|Tony Snyder is adopted as our family hero. Highway patrolmen don't investigate murders. They give out traffic tickets, and for him to do what he did... I mean, he didn't have experience in investigating murders. He went to his superiors and they gave him the opportunity to follow his heart, and we just need to thank everybody that was involved in it to give our family peace.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Tony Snyder is back to his old job as a highway patrolman. This case was his first brush with forensic evidence, but might not be his last.}}
+}}
+
+{{ft/d|
+{{ft|Tony Snyder|I am sure I will probably never see anything like it again in my career, but I'm ready for it if I do.}}
+}}
+
+{{ft/s|
+Narrator<br><br>{{w|Peter Thomas (announcer)|PETER THOMAS}}
+}}
+
+{{ft/s|
+Executive Producer<br><br>PAUL DOWLING
+}}
+
+{{ft/s|
+Senior Producer<br><br>KELLY ANN MARTIN<br><br><br>Producers<br><br>VINCE SHERRY<br>BILL FLOOD
+}}
+
+{{ft/s|
+Associate Producer<br><br>CHRISTINE M. STEWART<br><br><br>Assistant Producers<br><br>HANNAH ROPP<br>CECILIA SPECE
+}}
+
+{{ft/s|
+Senior Editor<br><br>MICHAEL DUFFIELD<br><br><br>Editor<br><br>MATT HENSEL<br><br><br>Art Director<br><br>JAMES W. KELLEY<br><br><br>Graphic Artist<br><br>KERRI POOLE
+}}
+
+{{ft/s|
+Production Coordinator<br><br>EDWARD HYDOCK<br><br><br>Post-Production Supervisor<br><br>MIKE VARGA
+}}
+
+{{ft/s|
+Reenactment Director<br><br>MICHAEL JORDAN<br><br><br>Director of Photography<br><br>VINCE ELLIS
+}}
+
+{{ft/s|
+Reenactment Coordinator<br><br>JENNELLE JONES<br><br><br>Talent Provided by<br><br>PRO MODEL & CASTING AGENCY
+}}
+
+{{ft/s|
+Assistant Editors<br><br>GEOFFREY FALASCA<br>STACEY WILLIAMS<br><br><br>Field Production<br><br>WIDE EYE PICTURES
+}}
+
+{{ft/s|
+Production Assistants<br><br>LINDA M. ZALIT<br>DIANE BARLIP<br>TOM COBB<br>BEN ECK<br>KEETON LONGWORTH<br>TYLER DOWLING<br>VANESSA LEWIS<br>PETE MACKEY<br>SAM CASSIDY
+}}
+
+{{ft/s|
+Music Composed by<br><br>ALAN ETT MUSIC GROUP<br><br><br>Audio Post<br><br>CREATIVE SOUND STUDIOS
+}}
+
+{{ft/s|
+Special Thanks<br><br>JM STUNTS<br>PRINCETON UNION-EAGLE
+}}
+
+{{ft/s|
+Visit Our Website<br><br>www.FORENSICFILES.com
+}}
+
+{{ft/s|
+{{c|PRODUCED BY}}
+
+
+{{c|''MEDSTAR''<sup>®</sup>}}
+
+
+{{c|COPYRIGHT MMV MEDSTAR TELEVISION INC.<br>ALL RIGHTS RESERVED}}
+}}
+
+{{ft/s|{{c|{{xxxx-larger|FilmRise}}}}}}
+
+{{license
+ | image    = PD-icon.svg
+ | image_r  = Flag of the United States.svg
+ | category = PD-1923
+ | text     = {{license scope}} in the '''[[w:public domain|public domain]]''' in the United States because {{#switch:{{NAMESPACE}}|Author=they were|it was}} published before January 1, 2010. It may be copyrighted outside the U.S. (see [[Help:Public domain]]).|}}

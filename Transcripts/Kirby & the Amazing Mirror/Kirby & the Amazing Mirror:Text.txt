@@ -1,0 +1,177 @@
+{{header
+ | title       = [[../]]
+ | author      = | override_author= [[Portal:Nintendo|Nintendo]]
+ | translator  =
+ | section     = Transcript
+ | previous    = "[[../Trailers|Trailers]]"
+ | next        = "[[../Manual|Manual]]"
+ | year        = 2004
+ | notes       = Transcription of all in-game text from ''{{w|Kirby & the Amazing Mirror}}''
+}}
+
+==Cutscenes==
+
+===Introduction===
+{{ft/s|{{c|High above the skies of Dream Land, the mirror world needs help!}}}}
+
+{{ft/s|{{c|A shadowy figure is unleashing chaos on the peaceful world!}}}}
+
+{{ft/s|{{c|Meta Knight flies into the mirror world to protect Dream Land!}}}}
+
+{{ft/s|{{c|However...}}}}
+
+===Demos===
+{{ft/s|{{c|•DEMO•}}}}
+
+===Post-credits cutscene===
+{{ft/s|{{c|And so, Dark Mind was defeated, and his dream of conquering the mirror world was shattered.}}}}
+
+{{ft/s|{{c|Now, at last, peace will return to the mirror world...}}}}
+
+{{ft/s|{{c|But they remain on guard...}}}}
+
+{{ft/s|{{c|After all, who knows when another evil might arise?}}}}
+
+{{ft/s|{{c|Don't worry, though...}}}}
+
+{{ft/s|{{c|Mirror-world Kirby will be there to keep them all safe!}}}}
+
+==Copy ability descriptions==
+
+===Using [L] and [R]===
+{{ft/s|
+{{gap}} '''Using [L] and [R]'''<br>{{c|Call for help with [R],<br>{{smaller|but watch your batteries.}}<br>Hold [L] to start over.}}
+}}
+
+===Normal===
+{{ft/s|
+{{gap}} '''About Copy Abilities'''<br>{{c|Swallow enemies and squat to copy their abilities! If you try hard, you can swallow large enemies, too!}}
+}}
+
+===Beam===
+{{ft/s|
+{{gap}} '''BEAM'''<br>{{c|This Beam's like a whip! Whaa-pssssshh! Beam it!}}
+}}
+
+===Bomb===
+{{ft/s|
+{{gap}} '''BOMB'''<br>{{c|Use (B) to pull out a bomb, and press (B) again to throw it. Move the + Control Pad to change where to throw it.}}
+}}
+
+===Burning===
+{{ft/s|
+{{gap}} '''BURNING'''<br>{{c|Flaming tackle time! Who's gonna stop me?}}
+}}
+
+===Cook===
+{{ft/s|
+{{gap}} '''COOK'''<br>{{c|Cook your enemies into a nutritious and delicious snack. This trick only works once before it goes away!}}
+}}
+
+===Crash===
+{{ft/s|
+{{gap}} '''CRASH'''<br>{{c|Warning! Use only as a last resort!}}
+}}
+
+===Cupid===
+{{ft/s|
+{{gap}} '''CUPID'''<br>{{c|Fire a pointy arrow. Press and release (B) to fire the arrow. Change where you aim with the + Control Pad.}}
+}}
+
+===Cutter===
+{{ft/s|
+{{gap}} '''CUTTER'''<br>{{c|Throw the Cutter farther by holding (B). Aim up or down with the + Control Pad.}}
+}}
+
+===Fighter===
+{{ft/s|{NOTE:} INCOMPLETE, needs images and captions}}
+
+===Fire===
+{{ft/s|
+{{gap}} '''FIRE'''<br>{{c|Fire!! Hot! So hot! Too hot to touch!}}
+}}
+
+===Hammer===
+{{ft/s|
+{{gap}} '''HAMMER'''<br>{{c|Flatten your foes with these superspecial moves:}}
+
+{NOTE:} IMAGES AND CAPTIONS NEEDED!
+}}
+
+===Ice===
+{{ft/s|
+{{gap}} '''ICE'''<br>{{c|First I'll freeze 'em, then I'll kick 'em along! Brrrr!}}
+}}
+
+===Laser===
+{{ft/s|
+{{gap}} '''LASER'''<br>{{c|-Light Amplification by Stimulated Emission of Radiation-<br>{{smaller|And it ricochets off hills, too!}}}}
+}}
+
+===Magic===
+{{ft/s|
+{{gap}} '''MAGIC'''<br>{{c|No telling what will happen when you use it, but... once you use it, you lose it!}}
+}}
+
+===Master===
+{{ft/s|
+{{gap}} '''MASTER'''<br>{{c|Almighty Sword! It can be used on all puzzles!}}
+}}
+
+===Mini===
+{{ft/s|
+{{gap}} '''MINI'''<br>{{c|Shrink down to tiny size so you can fit through tight passageways.}}
+}}
+
+===Missile===
+{{ft/s|
+{{gap}} '''MISSILE'''<br>{{c|Transform into a missile and fly through the sky. Watch out: you'll blow up if you hit an enemy or a wall.}}
+}}
+
+===Parasol===
+{{ft/s|
+{{gap}} '''PARASOL'''<br>{{c|The sun shines on this Parasol of mine. Where I walk, enemies balk, and I float gently down...}}
+}}
+
+===Sleep===
+{{ft/s|
+{{gap}} '''SLEEP'''<br>{{c|'''-DO NOT DISTURB-'''<br>I need my beauty rest.}}
+}}
+
+===Smash===
+{{ft/s|
+{{gap}} '''SMASH'''<br>{{c|Attack with...familiar fighting moves. Press (B) with the + Control Pad for different smashing attacks.}}
+}}
+
+===Spark===
+{{ft/s|
+{{gap}} '''SPARK'''<br>{{c|BZZT! BRRRRZZZT! BRRRZZPPP! ZZZT!}}
+}}
+
+===Stone===
+{{ft/s|
+{{gap}} '''STONE'''<br>{{c|Turn into an invincible stone block and crush your foes. Roll down slopes to pulverize everyone you hit!}}
+}}
+
+===Sword===
+{{ft/s|{NOTE:} INCOMPLETE, needs images and captions}}
+
+===Throw===
+{{ft/s|
+{{gap}} '''THROW'''<br>{{c|Try throwing enemies straight! Aim up or down to change the direction!}}
+}}
+
+===Tornado===
+{{ft/s|
+{{gap}} '''TORNADO'''<br>{{c|Spin spin spin spin spin<br>Spinspinspinspin<br>Spinspinspin<br>AAAAAUGGHH!}}
+}}
+
+===U.F.O.===
+{{ft/s|
+{{gap}} '''U.F.O.'''<br>{{c|Wow! I'm so lucky I copied a UFO! I can do four different moves. It all depends on how long you hold (B)!}}
+}}
+
+===Wheel===
+{{ft/s|
+{{gap}} '''WHEEL'''<br>{{c|I ride like the wind! Fast! Too fast!}}
+}}

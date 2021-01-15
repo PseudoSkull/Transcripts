@@ -1,0 +1,857 @@
+{{header
+ | title       = [[../]]
+ | author      = | override_author= [[Portal:Nintendo|Nintendo]]
+ | translator  =
+ | section     = "Kirby Comes to Cappy Town"
+ | previous    =
+ | next        = "[[../A Blockbuster Battle|A Blockbuster Battle]]"
+ | year        = 2002
+ | notes       = {{Film|Two Wet Bears.webm|thumbtime=|size=400px}}
+}}
+
+{{ft/d|
+{{ft|Sheep|Baa! Baa! Baa! Baa! Maa! Baa! Maa! Baa! Maa! Maa! Baa! Maa!}}
+}}
+
+{{ft/d|
+{{ft|Cappy|Waah!}}
+}}
+
+{{ft/d|{{c|Kirby, Kirby, Kirby, that's a name you should know. Kirby, Kirby, Kirby, he's the star of the show. He's more than you think. He's got maximum pink. Kirby, Kirby, Kirby's the one. He comes right back at ya! He comes right back at ya! Give it all that you got. Take your very best shot. He'll send it right back at ya for sure, yeah!}}}}
+
+{{ft/d|
+{{ft|NME sales guy|How can I help you, King Dedede?}}
+{{ft|King Dedede|I need a monster to clobber that there Kirby.}}
+{{ft|NME sales guy|That's what we do best at NME.}}
+{{ft|Escargoon|You better get it with a money-back guarantee!}}
+}}
+
+{{ft/d|{{c|Whoa, Kirby, Kirby, Kirby, savin' the day. Kirby, Kirby, Kirby, he's here to stay. Don't be fooled by his size. You won't believe your eyes. Kirby! Kirby! Kirby! Kirby! Kirby! Kirby! Kirby, Kirby, Kirby's the one! Right back at ya! Yeah!}}}}
+
+{{ft/s|{{c|{{xxxx-larger|Kirby}}<br>Right Back at Ya!}}}}
+
+{{ft/i|{{c|WARP}}}}
+
+{{ft/d|
+{{ft|Escargoon|Monster? That's ridiculous! There's no monster in this castle!}}
+}}
+
+{{ft/d|
+{{ft|Cappy|Yes, there is. It's big and it's scary and it eats everything in sight.}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|That's King Dedede. There's no monster. Now go back to your homes so His Majesty can finish his supper in peace.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Hey, wait a minute, Escargoon, not so fast! How do we know you're not lying again?}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Yeah, like you usually do!}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|You have no right to speak to me that way. Your parents should slap you silly.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Papa, something funny is going on.}}
+}}
+
+{{ft/d|
+{{ft|Sir Ebrum|You might be right, Tiff. A monster is the kind of thing Dedede would love.}}
+}}
+
+{{ft/d|
+{{ft|Lady Like|The King must be behind this!}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|You're the court official. How dare you accuse His Royal Highness?! Want me to check them in for a two week stay in the dungeon, sweet kingy?}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Hahahahaha! A monster, huh? Would the monster happen to look anything like that?}}
+}}
+
+{{ft/d|
+{{ft|Cappy 1|That's it!}}
+{{ft|Cappy 2|That's the monster!}}
+{{ft|Cappy 3|Except it was a hundred times bigger!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Hahahahahaha! Well, you can see this ain't no monster. It's my new pet octopus. And the only thing he likes to eat is sardines. Hahahahaha! Little fella wouldn't hurt a fly, unless it was on the end of a fishhook. Hahahahaha!}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Of course it wouldn't. Now get out and go back to your trailer parks so the King can have his dessert. Go on, poof, you're gone!}}
+}}
+
+{{ft/d|
+{{ft|Kabu|Tell me, citizens of Dream Land, for what purpose have you come to consult me?}}
+}}
+
+{{ft/d|
+{{ft|Sir Ebrum|We seek your wisdom and knowledge, Kabu. For three nights, a giant monster has been stealing our sheep.}}
+}}
+
+{{ft/d|
+{{ft|Lady Like|And it's robbing me of my beauty sleep.}}
+}}
+
+{{ft/d|
+{{ft|Mayor Len|King Dedede says it's not his monster.}}
+}}
+
+{{ft/d|
+{{ft|Chief Bookem|But I don't believe that rascal!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|You know the truth, Kabu.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Please tell us where the monster is, Kabu, and how we can make it go away.}}
+}}
+
+{{ft/d|
+{{ft|Kabu|The monster is here, and all Dream Land is in grave danger.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Why did he come here?}}
+}}
+
+{{ft/d|
+{{ft|Kabu|It was called here by your own King Dedede.}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Sounds like the big Kabu-na's got your number, crowny. Ow!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|That tattletalin' tiki!}}
+}}
+
+{{ft/d|
+{{ft|Kabu|The monster was created by one far more powerful than King Dedede.}}
+}}
+
+{{ft/d|
+{{ft|Chief Bookem|I'd like to lock both of them up!}}
+}}
+
+{{ft/d|
+{{ft|Mayor Len|What could we do to stop them?}}
+}}
+
+{{ft/d|
+{{ft|Kabu|There is nothing you can do.}}
+}}
+
+{{ft/d|
+{{ft|Sir Ebrum|Oh, dear!}}
+}}
+
+{{ft/d|
+{{ft|Lady Like|Oh, dear me!}}
+}}
+
+{{ft/d|
+{{ft|Falala|Then is Dream Land doomed?}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Can anybody help, Kabu?}}
+}}
+
+{{ft/d|
+{{ft|Kabu|There is one hope. A Star Warrior traveling through space, whose name is Kirby.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Kirby...}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Yay, Kirby!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Hm, bet he's cute!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Hahahahaha! That's trash you're talkin', Kabu. Ain't no such person as Kirby.}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|That's right, you're full of Kabu-loney.}}
+}}
+
+{{ft/d|
+{{ft|Kabu|Kabu can see the future.}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Hahahaha! Then why don't you predict what's gonna happen when I push this here button?}}
+}}
+
+{{ft/d|
+{{ft|Kabu|I predict you will not push it.}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Hey, Escargoon, did you hear that one? Hahaha! Well, I predict you're dead wrong!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Looks like an alien invader.}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Mash it with your mallet!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Wait a second! Let's see what it is! Are you a space alien?}}
+}}
+
+{{ft/d|
+{{ft|Kirby|Poyo?}}
+}}
+
+{{ft/d|
+{{ft|Tiff|It's gotta be impossible, but your name wouldn't happen to be Kirby?}}
+}}
+
+{{ft/d|
+{{ft|Kirby|Ooh! Kirby! Kirby!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|That's Kirby?}}
+}}
+
+{{ft/d|
+{{ft|Sir Ebrum|The Star Warrior?}}
+}}
+
+{{ft/d|
+{{ft|Lady Like|It's so pink!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Hahahahahaha! Some warrior. Now stand back. This boy's goin' into orbit.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|No! Please don't!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Fore! Haha!}}
+}}
+
+{{ft/d|
+{{ft|Sir Ebrum|Well, that seemed unnecessary.}}
+}}
+
+{{ft/d|
+{{ft|Lady Like|Why did you have to clobber that Kirby?}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|The King just saved you all from a public menace!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Yeah, Kirby must've been the monster that's been eatin' up all the sheep.}}
+}}
+
+{{ft/d|
+{{ft|Lady Like|I hope that little pinky's alright.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|I'll go see.}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Me too!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Good riddance, I say.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Kirby! Just hang on! We're coming down to help you!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Huh? Aah!}}
+{{ft|Kirby|Huh?}}
+{{ft|Tiff|Aah!}}
+{{ft|Tiff|Aah! Aah! Aah!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Huh? Kirby just saved my life.}}
+}}
+
+{{ft/d|
+{{ft|Tuff|A monster wouldn't have done that, Tiff.}}
+}}
+
+{{ft/d|
+{{ft|Falala|You're right, Tuff. Maybe Kirby is a Star Warrior.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Impossible, Falala. Warriors are big and strong, not pink and puffy. Huh?}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Hey, Kirby, where are you going? Kirby, wait for us, will ya?!}}
+}}
+
+{{ft/d|
+{{ft|Fololo|He doesn't understand!}}
+}}
+
+{{ft/d|
+{{ft|Falala|Don't let him get away, Fololo!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Some warrior.}}
+}}
+
+{{ft/d|
+{{ft|Falala|This is Cappy Town.}}
+}}
+
+{{ft/d|
+{{ft|Tuff|And the people are called Cappies.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|My parents work for the King, and we live in the castle. In case you were wondering, my name's Tiff.}}
+}}
+
+{{ft/d|
+{{ft|Kirby|Name Tiff.}}
+}}
+
+{{ft/d|
+{{ft|Kirby|Name Tiff!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|I'm her brother, Tuff!}}
+}}
+
+{{ft/d|
+{{ft|Kirby|Tuff!}}
+}}
+
+{{ft/d|
+{{ft|Fololo|And we're their friends, Fololo...}}
+{{ft|Falala|And Falala!}}
+}}
+
+{{ft/d|
+{{ft|Kirby|Fololo. Falala?}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Guess Kirby must be a baby warrior.}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Hey! Out of our way! I'll get that monster!}}
+}}
+
+{{ft/d|
+{{ft|Kirby|Aah!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Knock it off!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|It's not a monster!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|He ran into that watermelon patch.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|We're not gonna let you hurt our friend, Kirby!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Don't tell me what to do! I'm the King!}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Wait! I have an idea.}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|That's a good one, Escargoon. There's more than one way to skin a Kirby. Hahahaha!}}
+}}
+
+{{ft/d|
+{{ft|Mayor Len|Wonder where they're off to.}}
+}}
+
+{{ft/d|
+{{ft|Chief Bookem|Hey, you kids alright?}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Yeah, but where's Kirby? Kirby! Kirby! Kirby, where are you?}}
+}}
+
+{{ft/d|
+{{ft|Mayor Len|And as mayor of Cappy Town, I know I speak for everyone when I say that we're pleased and proud to welcome our honored guest, the mighty Star Warrior, Kirby!}}
+}}
+
+{{ft/d|
+{{ft|Chief Bookem|I can speak for myself, thank you!}}
+}}
+
+{{ft/d|
+{{ft|Mayor Len|We all know that, Chief Bookem.}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Let's hurry up and eat.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Kirby doesn't understand what you're saying anyway.}}
+}}
+
+{{ft/d|
+{{ft|Mayor Len|Then let's dig in, shall we?}}
+}}
+
+{{ft/d|
+{{ft|Kirby|Poyo!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Augh! I knew I should've started eating.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Hey! What's the big idea, Kirby?!}}
+}}
+
+{{ft/d|
+{{ft|Kirby|Poy...}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Kirby, wait!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Did you do this?}}
+}}
+
+{{ft/d|
+{{ft|Falala|Maybe Kirby is the monster.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|We can't stay here. Come on!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|You are the one who ate all those sheep, aren't you?}}
+}}
+
+{{ft/d|
+{{ft|Kirby|Huh?}}
+}}
+
+{{ft/d|
+{{ft|Tiff|If you tell us the truth, Kirby, maybe we can help you.}}
+}}
+
+{{ft/d|
+{{ft|Kirby|Huh?}}
+}}
+
+{{ft/d|
+{{ft|Tuff|But if you don't, you're history!}}
+}}
+
+{{ft/d|
+{{ft|Sword Knight|Hey! Let's check out this shack!}}
+}}
+
+{{ft/d|
+{{ft|Blade Knight|[Intentionally unintelligible speech]}}
+}}
+
+{{ft/d|
+{{ft|Sword Knight|It's Tiff!}}
+}}
+
+{{ft/d|
+{{ft|Blade Knight|[Intentionally unintelligible speech] and Tuff!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Hi Sword, hi Blade.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|What are you two doing here?}}
+}}
+
+{{ft/d|
+{{ft|Blade Knight|[Intentionally unintelligible speech] for the King.}}
+}}
+
+{{ft/d|
+{{ft|Sword Knight|We're looking for a bloke named Kirby.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Hey, that's funny, so are we.}}
+}}
+
+{{ft/d|
+{{ft|Tuff|But he's sure not in here.}}
+}}
+
+{{ft/d|
+{{ft|Meta Knight|I am not so sure.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Whoa!}}
+}}
+
+{{ft/d|
+{{ft|Meta Knight|It is...true.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Please, Meta Knight!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Don't tell the King.}}
+}}
+
+{{ft/d|
+{{ft|Meta Knight|The King is not the problem, for now. Now we have to find the real monster.}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Aah! Oof!}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Aah! Oof! How am I supposed to fix this thing if I don't have the owner's manual?}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Careful with this starship, snail-brain! Once we get it fixed, we can send Kirby back where he came from.}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Ooh, what's that?}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Aah... I can tack this up in my dressing room.}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Sire, we might need that!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|You just take care of business! And I'll take care of this star.}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Why does he have to be so abusive? Self-esteem issues, anyone? Aah! Well, this is a pleasant surprise, I was just trying to fix your starship for you!}}
+}}
+
+{{ft/d|
+{{ft|Kirby|Oh... Oh... Oh?}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Not my fault. See? Oh!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Hmph. I order a monster and I wind up with a wimp. I didn't spend my cash for this newfangled online monster ordering system so I could fill my fish tank.}}
+}}
+
+{{ft/d|
+{{ft|NME sales guy|Welcome to Nightmare Enterprises, King Dedede. How can I assist you?}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Look pal, I don't like to complain, but I paid you folks a lot of money for {{SIC|a|an}} octopus monster, and it turned out to be a little shrimp.}}
+}}
+
+{{ft/d|
+{{ft|NME sales guy|Just give it time, Your Highness, and I guarantee that little shrimp will grow on you.}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|All right...}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Kirby!}}
+}}
+
+{{ft/d|
+{{ft|Sir Ebrum|Look, it's Kirby!}}
+}}
+
+{{ft/d|
+{{ft|Lady Like|He's getting clumped by the King!}}
+}}
+
+{{ft/d|
+{{ft|Meta Knight|Get away!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Hey, you're on our side.}}
+}}
+
+{{ft/d|
+{{ft|Meta Knight|Look out!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|That must be the monster that ate all the sheep!}}
+}}
+
+{{ft/d|
+{{ft|Meta Knight|Yes, and it has taken control of the King.}}
+}}
+
+{{ft/d|
+{{ft|Cappy|It's going to destroy the castle!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Aah! Holy calamari!}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Get back in your tank, you overgrown appetizer! Aah!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Find the receipt for this thing 'cause I want my money back!}}
+}}
+
+{{ft/d|
+{{ft|Meta Knight|You had better leave, sire.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Kirby!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Ugh!}}
+}}
+
+{{ft/d|
+{{ft|Kirby|Oof, oof, oof, oof!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|That's it! Hahaha!}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Sure, now it's a keeper.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Oh no!}}
+}}
+
+{{ft/d|
+{{ft|Meta Knight|Where did you get that?}}
+}}
+
+{{ft/d|
+{{ft|Tiff|This? King Dedede dropped it, why?}}
+}}
+
+{{ft/d|
+{{ft|Meta Knight|That is the Warp Star, the source of Kirby's power.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Kirby!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Tiff, look out!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Kirby!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Whoa!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|He sucked them up.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Just like he sucked up that dinner!}}
+}}
+
+{{ft/d|
+{{ft|Meta Knight|It is Kirby's classic defense—inhale.}}
+}}
+
+{{ft/d|
+{{ft|Tiff and Tuff|Hooray!}}
+}}
+
+{{ft/d|
+{{ft|Meta Knight|That is Kirby's copy ability. After inhaling an attack, Kirby can transform himself. Kirby has now become Fire Kirby.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Kirby!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Yay! Yippee! Hooray! Kirby! Yippee! Yay!}}
+{{ft|Tuff|Yay! Alright, the monster! Hooray! Hooray!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|There goes my refund.}}
+}}
+
+{{ft/d|
+{{ft|NME sales guy|Well, it seems their puffy pink visitor is a Star Warrior after all.}}
+{{ft|eNeMeE|Hahahahahahaha!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|I wish you could've stayed around a little longer, Kirby.}}
+}}
+
+{{ft/d|
+{{ft|Kirby|Poy...}}
+}}
+
+{{ft/d|
+{{ft|Tiff|I hate long goodbyes, so just get on your ship and go.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Goodbye, Kirby!}}
+}}
+
+{{ft/d|
+{{ft|Kirby|Poy, poy...}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Thanks for saving us!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Come back and visit!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Hahahahaha! We'll make sure that don't happen.}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Goodbye for good!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Hey, I do believe I've been star-struck. Come back here! Come back here!}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Get away from me!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Well, it looks like you won't be leaving, Kirby. You want to stay with us?}}
+}}
+
+{{ft/d|
+{{ft|Kirby|Kirby, Kirby! Kirby!}}
+}}
+
+{{ft/d|{{c|Kirby! Kirby! Kirby! Kirby! Kirby! Kirby! Kirby, Kirby, Kirby's the one! Right back at ya! Yeah!}}}}
+
+{{ft/s|{{c|''Executive Producers''<br>Gail Tilden<br>Alfred R. Kahn<br>Norman J. Grossfeld}}}}
+
+{{ft/s|{{c|''Producer''<br>Michael Haigney<br><br>''US Production by''<br>{{w|4Kids Productions|{{SIC|4 Kids|4Kids}} Productions, Inc.}}<br><br>''Voice Director''<br>Andrew Rannells}}}}
+
+{{ft/s|{{c|''Script Adaptations''<br>John Touhey<br>Michael Haigney<br>Ted Lewis<br><br>''Lead Voices''<br>Ted Lewis<br>Kerry Williams<br>Kayzie Rogers<br>Makiko Oomoto}}}}
+
+{{ft/s|{{c|''Additional Voices''<br>Amy Birnbaum<br>Maddie Blaustein<br>Dan Green<br>Tara Jayne<br>Kevin Kolack<br>David Lapkin<br>Jerry Lobozzo<br>Ellen Lee<br>Nappy<br>Mike Pollock<br>Andrew Rannells<br>Eric Stuart}}}}
+
+{{ft/s|{{c|''Editor''<br>Chris Guido<br><br>''Associate Producer''<br>Julie Rath<br><br>''Creative Management''<br>Melinda Porter<br><br>''Adaptation Coordination''<br>Jaime Stemmermann<br><br>''Translations by''<br>Paul Taylor}}}}
+
+{{ft/s|{{c|''Graphics''<br>Paul J. Baccash<br>Rob Bruce<br>Lucialie Dumaguing<br>Ryan Kelly<br>Jennifer Obrotka<br><br>''Kirby Theme by''<br>Norman J. Grossfeld<br>Ralph Schuckett<br><br>''Music Producers''<br>John Sands<br>John Siegler}}}}
+
+{{ft/s|{{c|''Music Composers''<br>Ralph Schuckett<br>Manny Corallo<br>Wayne Sharpe<br>John VanTongeren<br>Louis Cortelezzi<br>Rusty Andrews<br>Peter Scaturro<br>John Siegler<br><br>''Music Production Coordinator''<br>Jonathan Lattif}}}}
+
+{{ft/s|{{c|''Sound Supervisor''<br>Ron London<br><br>''{{w|Automated dialogue replacement|ADR}} Engineers''<br>Shawn Conrad<br>Ron London<br>Alon Namdar<br>Ohad Tzachar<br><br>''Assistant Editors''<br>Michael Charters<br>David Etzold}}}}
+
+{{ft/s|{{c|''Production Assistant''<br>Joan Vollero<br><br>''Head of Production''<br>Michael Attanasio<br><br>''Production Supervisor''<br>Brenda Dillon<br><br>''Marketing Director''<br>Susan Eisner}}}}
+
+{{ft/s|{{c|''Japanese Production by''<br>Warpstar<br><br>''Original Concept''<br>{{w|Masahiro Sakurai}}<br><br>''General Director''<br>{{w|Soji Yoshikawa}}}}}}
+
+{{ft/s|{{c|''Animation Director''<br>Mitsuo Kusakabe<br><br>''Animation Supervisor''<br>Yoichi Kotabe<br><br>''Character Designer''<br>Miyuki Shimabukuro<br><br>Visual Director<br>Kazuo Iimura}}}}
+
+{{ft/s|{{c|''{{w|3D computer graphics|3DCG}} Directors''<br>Keiji Nakatsuji<br>Daisuke Saito<br>Akira Takamura<br>Hirotsugu Murayama<br><br>''Art Director''<br>Manami Koyama<br><br>''Animation Producers''<br>Seiichi Hirano<br>Noriko Nishimiya}}}}
+
+{{ft/s|{{c|''Creative Supervisors''<br>Tetsuya Notoya<br>Masanobu Yamamoto<br>Hiroshi Fujie<br>Misako Mohri<br><br>''Creative Management''<br>Yusuke Beppu<br>Yoichi Yamamoto<br><br>''Creative Planning''<br>Hitoshi Shiogai<br>Aki Oda}}}}
+
+{{ft/s|{{c|''Producers''<br>Satoru Iwata<br>Masayoshi Tanimura<br>Masayoshi Ozaki<br><br>''General Supervisor''<br>Hiroshi Yamauchi<br><br>''Creative Cooperation''<br>Studio-Sign<br><br>''3DCG Creative Cooperation''<br>Overlord<br><br>''Animation Works''<br>A-UN Entertainment}}}}
+
+{{ft/s|{{c|© 2002<br>Nintendo / HAL Laboratory, Inc.<br><br>Kirby and all other Kirby character names are trademarks of Nintendo.}}}}
+
+{{ft/s|{{c|{{xxxx-larger|4Kids}}<br><u>ENTERTAINMENT</u>}}}}
+
+{{license
+ | image    = PD-icon.svg
+ | image_r  = Flag of the United States.svg
+ | category = PD-1923
+ | text     = {{license scope}} in the '''[[w:public domain|public domain]]''' in the United States because {{#switch:{{NAMESPACE}}|Author=they were|it was}} published before January 1, 2010. It may be copyrighted outside the U.S. (see [[Help:Public domain]]).|}}

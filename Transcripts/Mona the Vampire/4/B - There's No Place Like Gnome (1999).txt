@@ -1,0 +1,418 @@
+{{ft/d|
+{{ft|Mona|The town—quiet, calm, a peaceful place where nothing much happens—or so it would seem on the surface. But I know the truth—the hidden secrets, the shadowy tales, the mounting terror that grips—}}
+}}
+
+{{ft/s|{{c|{{larger|THERE'S<br>NO PLACE<br>LIKE GNOME}}}}}}
+
+{{ft/d|
+{{ft|Mrs. Parker|Mona? Mona? Are you still up?}}
+}}
+
+{{ft/d|
+{{ft|Mona|I'm just finishing up my diary entry, Mom! Sigh... Like I was saying, I know the secrets this town hides, the unseen tales of terror concealed within its shadows.}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Bryerson|Coming! Ooh! Ouch! Coming!}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Bryerson|Hello?}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Bryerson|Eh, no, I do not want to join the Bubblegum of the Month Club.}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Bryerson|Wha? Gasp! Gasp! I've been robbed!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Mrs. Bryerson's garden gnome was the first to disappear.}}
+}}
+
+{{ft/d|
+{{ft|Mr. Shensky|Juliet, I think somebody took our garden gnome. No!}}
+}}
+
+{{ft/d|
+{{ft|Mona|The next day, at the town hall meeting...}}
+}}
+
+{{ft/d|
+{{ft|Citizens|Stolen right out of my garden!<br>Disappeared just like that!<br>There's a gnome thief on the loose!<br>My gnome was stolen!}}
+}}
+
+{{ft/d|
+{{ft|Mayor Rosenbaum|Please, please. We'll get to the gnome crisis. But first, there are a couple of other items on today's agenda we have to deal with. First order of business—the historical society has tabled a motion to rename Genghis Khan Memorial Park to Royal Park. All in favor?}}
+}}
+
+{{ft/d|
+{{ft|Citizens|Aye!}}
+}}
+
+{{ft/d|
+{{ft|Mayor Rosenbaum|All against?}}
+}}
+
+{{ft/d|
+{{ft|Mayor Rosenbaum|The motion is passed!}}
+}}
+
+{{ft/d|
+{{ft|Mayor Rosenbaum|Next order of business—for the third time in three weeks, an anonymous individual has tabled a motion to rename Cresthaven Street "Dracula Drive." All in favor?}}
+}}
+
+{{ft/d|
+{{ft|Mona|Aye!}}
+}}
+
+{{ft/d|
+{{ft|Mayor Rosenbaum|All against?}}
+}}
+
+{{ft/d|
+{{ft|Citizens|Nay!}}
+}}
+
+{{ft/d|
+{{ft|Mayor Rosenbaum|The motion is defeated, uh, again. Next order of business—this gnome crisis.}}
+}}
+
+{{ft/d|
+{{ft|Mayor Rosenbaum|Considering the seriousness of the situation—hehe, not to mention my impending reelection campaign—I'm setting up a task force to deal with the gnome-nappings. Officer Halcroft will get right on it.}}
+}}
+
+{{ft/d|
+{{ft|Officer Halcroft|I'm on garden-gnome duty?! You have got to be kidding!}}
+}}
+
+{{ft/d|
+{{ft|Mona|While the local authorities launched their investigation, I decided to launch my own.}}
+}}
+
+{{ft/d|
+{{ft|Charley|So you think there's more here than meets the eye?}}
+}}
+
+{{ft/d|
+{{ft|Mona|Absolutely! It's time I launched a full investigation as...Mona the Vampire Detective!}}
+}}
+
+{{ft/d|
+{{ft|Mona|The first step in my investigation was a trip to the library.}}
+}}
+
+{{ft/d|
+{{ft|Fang|Meow!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Aha! That's the book I'm looking for!}}
+}}
+
+{{ft/d|
+{{ft|Mona|''Local Legends and Stuff''.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Here it is!}}
+}}
+
+{{ft/d|
+{{ft|Fang|Meow.}}
+}}
+
+{{ft/d|
+{{ft|Lily|What's it say?}}
+}}
+
+{{ft/d|
+{{ft|Mona|Long ago, the land upon which this town was built was peopled by gnomes. But they were not the only forest dwellers, for sharing the area with the gnomes was a tiny druid community.}}
+}}
+
+{{ft/d|
+{{ft|Mona|As it turned out, neither group thought much of the other, and both lay claim to the forest. Finally, the day came when the gnomes had had enough.}}
+}}
+
+{{ft/d|
+{{ft|Green gnome|I've had enough! It's time we rid our forest of those annoying druids!}}
+}}
+
+{{ft/d|
+{{ft|Gnomes|Hooray! Woohoo! Haha! Wa!}}
+}}
+
+{{ft/d|
+{{ft|Mona|But the druids were waiting for them.}}
+}}
+
+{{ft/d|
+{{ft|Gnomes|Gasp!}}
+}}
+
+{{ft/d|
+{{ft|Druids|Heeheeheeheehee!}}
+}}
+
+{{ft/d|
+{{ft|Gnomes|Ahh!}}
+}}
+
+{{ft/d|
+{{ft|Mona|The druids turned the gnomes into stone, and finally had the forest all to themselves...}}
+}}
+
+{{ft/d|
+{{ft|Druids|Yeah! We beat the gnomes! Yeah! Hahahahahahahahaha!}}
+}}
+
+{{ft/d|
+{{ft|Mona|...until two years later when they decided to move to a warmer clime, namely Florida.}}
+}}
+
+{{ft/d|
+{{ft|Lily|Wow.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Let's go!}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Bryerson|Officer Halcroft already came by to search for clues.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Maybe he did, but even he doesn't have the keen eye of a vampire detective.}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Bryerson|Pardon me?}}
+}}
+
+{{ft/d|
+{{ft|Mona|Aha! Gnome footprints!}}
+}}
+
+{{ft/d|
+{{ft|Fang|Meow!}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Bryerson|Haha! Actually, my niece and nephews came by yesterday and they were running around—}}
+}}
+
+{{ft/d|
+{{ft|Mona|Aha! An Alaskan travel brochure, possibly left behind by a forgetful gnome.}}
+}}
+
+{{ft/i|{{c|Alaska}}}}
+
+{{ft/d|
+{{ft|Mrs. Bryerson|Actually, I... Hold on! I'm coming! Oh, oh...dear me! Coming!}}
+}}
+
+{{ft/d|
+{{ft|Fang|Meow.}}
+}}
+
+{{ft/d|
+{{ft|Mona|I don't believe it! How did Officer Halcroft miss this clue?}}
+}}
+
+{{ft/d|
+{{ft|Lily|A macramé owl?}}
+}}
+
+{{ft/d|
+{{ft|Mona|No, Lily. Not a macramé owl—an ancient druid mystic symbol. The pieces of the puzzle are falling into place. Obviously, the gnomes have awakened from their ancient curse. They've turned back into flesh and blood. But what are they plotting? How do a travel brochure and that, um...}}
+{{ft|Charley|Macramé owl?}}
+{{ft|Mona|...ancient druid mystic symbol, figure into this diabolical stew?}}
+}}
+
+{{ft/d|
+{{ft|Fang|Meow.}}
+}}
+
+{{ft/d|
+{{ft|Lily|Where should we look next?}}
+}}
+
+{{ft/d|
+{{ft|Mona|The woods behind the church—where else would the gnomes hide out? But we're outnumbered, so we'll need the element of surprise. I have an idea. Give me a hand with these old blankets and this can of paint.}}
+}}
+
+{{ft/d|
+{{ft|Mona|We've found the gnomes, but what are they up to?}}
+}}
+
+{{ft/d|
+{{ft|George|That was the perfect place to stash our loot—no one ever comes out here.}}
+}}
+
+{{ft/d|
+{{ft|George|Huh?}}
+}}
+
+{{ft/d|
+{{ft|Mona, Charley, and Lily|Woo!}}
+}}
+
+{{ft/d|
+{{ft|George and his two friends|Ahh! Run! Ahh! Ahh!}}
+}}
+
+{{ft/d|
+{{ft|George and his two friends|Ahh! Ahh!}}
+}}
+
+{{ft/d|
+{{ft|Officer Halcroft|Hmm... I'd swear those kids were up to something.}}
+}}
+
+{{ft/d|
+{{ft|Mona|I didn't know what George and his friends were doing there, but they weren't our main target.}}
+}}
+
+{{ft/d|
+{{ft|Lily|Ahh!}}
+{{ft|Blue gnome|Yahh!}}
+{{ft|Lily|Ahh!}}
+}}
+
+{{ft/d|
+{{ft|Green gnome|Druid!}}
+{{ft|Charley|Wah!}}
+{{ft|Gnomes|Ahh!}}
+}}
+
+{{ft/d|
+{{ft|Green gnome|Please, please don't turn us back into stone!}}
+{{ft|Blue gnome|Don't hurt us, Mr. Druid!}}
+}}
+
+{{ft/d|
+{{ft|Mona|We don't want to hurt you. In fact, we're not really druids at all—just kids in incredible disguises.}}
+}}
+
+{{ft/d|
+{{ft|Gnomes|Huh?!}}
+}}
+
+{{ft/d|
+{{ft|Mona|But if you gnomes aren't plotting a nefarious scheme, then what are you up to?}}
+}}
+
+{{ft/d|
+{{ft|Green gnome|After five centuries, the curse that turned us into stone finally wore off last night. We thought we could move back into our old neighborhood, but everything is different now.}}
+}}
+
+{{ft/d|
+{{ft|Blue gnome|So, we're moving.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Then what about this travel brochure?}}
+}}
+
+{{ft/i|{{c|Alaska}}}}
+
+{{ft/d|
+{{ft|Blue gnome|That's where we're moving to—Alaska. Since the druids headed south, we want to be as far away from them as possible.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Then what about all these garden gnomes?}}
+}}
+
+{{ft/d|
+{{ft|Green gnome|We're covering our tracks, creating real stone duplicates of ourselves. That way, our owners will be none the wiser, and we'll be finally free to go.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Then what about this ancient druid mystic symbol?}}
+}}
+
+{{ft/d|
+{{ft|Green gnome|Eh, that's just a macramé owl.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Oh...}}
+}}
+
+{{ft/d|
+{{ft|Green gnome|If you don't mind, we really have to hurry up and finish these phony gnomes. We don't want to miss our flight.}}
+}}
+
+{{ft/d|
+{{ft|Mona|It sounds like you guys need help.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Have a good flight! Don't forget to write! And don't worry, we'll put these replicas in their rightful place!}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Bryerson|Oh! Hold on, I'm coming! Oh, for goodness sake, keep your shirt on, hun! I'm coming! Oh, these Fenders don't "vo-do-de-o" like they used to, but I can fandango with the best of them. Well, sure, skydiving will keep your adrenaline going—keep you young, I think! Bye now!}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Bryerson|Gasp! Oh, my!}}
+}}
+
+{{ft/d|
+{{ft|Mr. Shensky|Juliet! It's back! Sigh...}}
+}}
+
+{{ft/d|
+{{ft|Mona|And so... The mystery of the missing gnomes was solved...for most.}}
+}}
+
+{{ft/d|
+{{ft|Mayor Rosenbaum|First order of business—for the fourth time in four weeks, an anonymous individual has tabled a motion to rename Cresthaven Street "Dracula Drive." All in favor?}}
+}}
+
+{{ft/d|
+{{ft|Mona|Aye!}}
+}}
+
+{{ft/d|
+{{ft|Mayor Rosenbaum|All against?}}
+}}
+
+{{ft/d|
+{{ft|Citizens|Nay!}}
+}}
+
+{{ft/d|
+{{ft|Mayor Rosenbaum|The motion is defeated...again.}}
+}}
+
+{{ft/d|
+{{ft|Mayor Rosenbaum|And now, a quick update on the gnome crisis—some local kids admitted to taking the garden gnomes as a prank. Evidently spooked by something, they returned every one of them before turning themselves in.}}
+}}
+
+{{ft/d|
+{{ft|Charley|Wow! Do you really think we scared George and his friends so badly that they actually admitted to a prank they didn't pull?}}
+}}
+
+{{ft/d|
+{{ft|Mona|Well, there can't be any other explanation. "Greetings from {{w|Nome, Alaska}}."}}
+}}
+
+{{ft/i|MONA
+
+{{xx-smaller|PRINTED IN {{illegible|looks like "A105 A"}}}}}}
+
+{{ft/i|{{c|ALASK}}}}
+
+{{ft/d|
+{{ft|Mrs. Parker|Mona!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Uh...}}
+}}

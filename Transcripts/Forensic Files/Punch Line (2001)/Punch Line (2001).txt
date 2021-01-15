@@ -1,0 +1,416 @@
+{{header
+ | title       = [[../]]
+ | author      = | override_author= [[Portal:Medstar Television|Medstar]]
+ | translator  =
+ | section     = "Punch Line"
+ | previous    = "[[../Where the Blood Drops|Where the Blood Drops]]"
+ | next        = "[[../Sibling Rivalry|Sibling Rivalry]]"
+ | year        = 2001
+ | notes       = Concerns the 1994 murder of Rhoda Nathan in a hotel room in a suburb of {{w|Cincinnati}}, Ohio {{Film|Two Wet Bears.webm|thumbtime=|size=400px}}
+}}
+
+{{ft/s|{{c|{{xxxx-larger|FilmRise}}}}}}
+
+{{ft/d|
+{{ft|Narrator|An elderly woman was found dead in her hotel room. Was it a natural death, or was it murder? An alert doctor noticed a horrible infection on the finger of a hotel worker who had come to the emergency room for treatment of his injury. The virulence of that infection was a clue to the mystery.}}
+}}
+
+{{ft/s|{{gap|2em}}{{xxx-larger|FORENSIC}}<br>{{gap|8em}}{{xxx-larger|{{cursive|Files}}}}<br><br>{{gap|4em}}PUNCH LINE
+}}
+
+{{ft/d|
+{{ft|Narrator|{{w|Cincinnati}}—the third largest city in Ohio. It was named after the Roman statesman {{w|Lucius Quinctius Cincinnatus|Lucius Cincinnatus}}, whom legend held to be the model of virtue. But in September of 1994, Rhoda Nathan, a 67-year-old grandmother visiting Cincinnati, saw a different side of the city.}}
+}}
+
+{{ft/d|
+{{ft|Richard Rosenberg|She was such an up person that you could not avoid having a good time with her. She was just a terrific lady.}}
+}}
+
+{{ft/s|RICHARD ROSENBERG<br>{{smaller|RHODA NATHAN'S FRIEND}}}}
+
+{{ft/d|
+{{ft|Narrator|She checked into this hotel in the Cincinnati suburb of {{w|Blue Ash, Ohio|Blue Ash}}.}}
+}}
+
+{{ft/i|
+{{c|E}}
+{{c|{{w|Embassy Suites|EMBASSY<br>SUITES}}}}
+}}
+
+{{ft/d|
+{{ft|Daniel Horn|It's a pretty nice hotel. It does a pretty good convention business, and nothing like this had ever happened there before.}}
+}}
+
+{{ft/s|DANIEL HORN<br>{{smaller|REPORTER}}}}
+
+{{ft/d|
+{{ft|Narrator|Rhoda was sharing room 237 with her best friend of 50 years, Elaine Shub, and Elaine's boyfriend, Joe Kaplan, both visiting from Florida. They were all there to attend Elaine's grandson's {{w|bar mitzvah}}. On Saturday morning, Joe and Elaine woke early and left the room for breakfast at 7:30. Joe said he pulled the door shut, making sure it was locked. Rhoda stayed behind so she could shower and dress with some privacy. After breakfast a half hour later, Elaine and Joe returned to the room.}}
+}}
+
+{{ft/d|
+{{ft|Joe Kaplan|I opened the door and I was just shocked I saw Rhoda's body. She was completely nude, head was on the side. Golly, it looked a little purple to me.}}
+}}
+
+{{ft/s|JOE KAPLAN<br>{{smaller|ELAINE SHUB'S BOYFRIEND}}}}
+
+{{ft/d|
+{{ft|Narrator|Rhoda was barely recognizable.}}
+}}
+
+{{ft/d|
+{{ft|Elaine Shub|I thought it was someone who wasn't a Caucasian. Her face was very brown. Well, to me, it looked like there was blood splattered inside or blood vessels burst, I don't know what, but I just didn't think it was Rhoda.}}
+}}
+
+{{ft/s|ELAINE SHUB<br>{{smaller|RHODA NATHAN'S FRIEND}}}}
+
+{{ft/d|
+{{ft|Joe Kaplan|I need help!}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Two hotel guests, a cardiologist and a registered nurse, answered the couple's cries for help and immediately performed CPR, believing Rhoda had suffered a heart attack and fallen. Rhoda was rushed to the hospital, but it was too late. She was pronounced dead on arrival. Later that day, Elaine discovered $500 in cash missing from the purse she had left in the room while at breakfast.}}
+}}
+
+{{ft/d|
+{{ft|Elaine Shub|There was $500 in here, and it's all gone now.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|It was then Elaine also realized that Rhoda's necklace was missing from her neck.}}
+}}
+
+{{ft/d|
+{{ft|Elaine Shub|I remember looking at her and saying, "oh my god!" I saw her breast and I just knew. I didn't think in my mind, "oh, where's her necklace?" But I know it wasn't there.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Police closed room 237 as a crime scene.}}
+}}
+
+{{ft/d|
+{{ft|Mike Allen|This was one of the most heinous crimes that I've ever seen in my 25 plus years in law enforcement.}}
+}}
+
+{{ft/s|MIKE ALLEN<br>{{smaller|PROSECUTING ATTORNEY}}}}
+
+{{ft/d|
+{{ft|Narrator|Bruises on Rhoda's face and chest indicated she had been beaten with at least two different objects in addition to someone's fists.}}
+}}
+
+{{ft/d|
+{{ft|Mark Piepmeier|She died of a severe beating. She was just beaten to death. That's the simplest way to put it.}}
+}}
+
+{{ft/s|MARK PIEPMEIER<br>{{smaller|CHIEF TRIAL COUNSEL}}}}
+
+{{ft/d|
+{{ft|Narrator|The autopsy confirmed what police already suspected.
+Rhoda's death was a homicide.}}
+}}
+
+{{ft/i|{{w|Hamilton County, Ohio|HAMILTON COUNTY}}<br>CORONER {{x-smaller|3159 Eden Ave.}}}}
+
+{{ft/d|
+{{ft|{{w|Joseph Deters}}|I think it's a horrible thing for this community to have out-of-town visitors come in here and be brutalized in the nature that she was. And hopefully we can bring some justice to this situation. And we think the death penalty is the appropriate piece of justice.}}
+}}
+
+{{ft/s|{{w|Joseph Deters|JOSEPH DETERS}}<br>{{smaller|PROSECUTING ATTORNEY}}}}
+
+{{ft/d|
+{{ft|Narrator|A 67-year-old grandmother, Rhoda Nathan, was murdered in her hotel room just hours before she was to attend a {{w|bar mitzvah}}. Since there were no signs of forced entry, Rhoda may have known the killer and willingly opened the door. But since she was found naked, and still wet from her shower, this theory was abandoned. A large blood stain was on the window curtain, and a bloody footprint was found on the bathroom floor.}}
+}}
+
+{{ft/d|
+{{ft|Richard Rosenberg|It was dreadful. It was like losing a member of the family. She did nothing wrong. She was going for a good time. And she was in the wrong place at the wrong time.}}
+}}
+
+{{ft/s|RICHARD ROSENBERG<br>{{smaller|RHODA NATHAN'S FRIEND}}}}
+
+{{ft/d|
+{{ft|Narrator|The motive appeared to be robbery. Rhoda's gold and diamond necklace was missing, along with $500 in cash from Elaine's purse. The door to room 237 faced the hotel lobby atrium, but no one was seen entering the room.}}
+}}
+
+{{ft/d|
+{{ft|Mark Piepmeier|We knew that whoever did this had to be at the hotel that morning between 7:30 and 8:00. So it really limited the suspect pool, and that was a big circumstance.}}
+}}
+
+{{ft/s|MARK PIEPMEIER<br>{{smaller|CHIEF TRIAL COUNSEL}}}}
+
+{{ft/d|
+{{ft|Narrator|Investigators questioned hotel guests and employees, since they would have access to room keys. The death of Rhoda Nathan wasn't the only incident at the hotel that day. 42-year-old Elwood Butch Jones, a hotel handyman, had sliced his left hand on the end of a trash dumpster.}}
+}}
+
+{{ft/d|
+{{ft|Mark Piepmeier|He had checked into work maybe around 6:00 that morning, and a couple of people had seen him—didn't seem like he had any physical problems. Yet around 8:30 or 9:00, people noticed that he had his left hand wrapped.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Three days later, Jones went to the hospital emergency room for treatment of his left index finger, which had become severely infected. Jones was seen by hand surgeon Dr. John McDonough.}}
+}}
+
+{{ft/d|
+{{ft|John McDonough|It was pretty benign as far as a cut. It was a small cut, already partially healed, and I initially took him at his word, that he had indeed cut it on a dumpster at work.}}
+}}
+
+{{ft/s|JOHN McDONOUGH, {{w|Doctor of Medicine|MD}}<br>{{smaller|HAND SURGEON}}}}
+
+{{ft/d|
+{{ft|Narrator|When Dr. McDonough cut into Jones's finger, infected tissue squirted ten inches across the operating room table. The cut was deep, penetrating the capsule or sterile lining of Jones's finger joint. Jones underwent two different operations, antibiotic therapy, and a five-day hospital stay. Doctors believe that Jones could have died had he not sought treatment. And Dr. McDonough suspected that his hand injury was not caused by a cut from a metal object. Lab tests revealed that the cause of the infection was a virulent bacteria called ''{{w|Eikenella corrodens}}''. ''Eikenella'' is found typically in the human mouth, under dental plaque around the gum line.}}
+}}
+
+{{ft/d|
+{{ft|John McDonough|To get the ''Eikenella'' to propagate, you have to break the dental plaque. There has to be a significant injury. And that happens when you break a tooth, usually, or if a hard object comes in contact with it, such as a fist or a hand bone. So just putting his hand in his mouth would not have given him ''Eikenella''.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Coincidentally, two of Rhoda Nathan's teeth had been knocked out during the attack. One tooth was found on the floor next to her body—the other, in her stomach. Also suspicious, Elwood Jones told doctors that he cut his hand on the trash dumpster, but later, he told coworkers he cut it on some metal stairs.}}
+}}
+
+{{ft/d|
+{{ft|Mark Piepmeier|So it was obvious that he was concerned about how he had done this injury to his hand. Even though Elwood was intelligent, he was too dumb to keep his story straight.}}
+}}
+
+{{ft/d|
+{{ft|Reporter|If you did not kill Rhoda Nathan, then who do you suppose did?}}
+{{ft|Elwood Jones|I've been set up! I'm not guilty. That's all I can tell you.}}
+{{ft|Reporter|Who do you suppose set you up?}}
+}}
+
+{{ft/d|
+{{ft|Mike Allen|It's one of the most brutal murder cases that I've ever heard of. Just the sheer viciousness of the beating and the sheer senselessness of it just amaze me.}}
+}}
+
+{{ft/s|MIKE ALLEN<br>{{smaller|PROSECUTING ATTORNEY}}}}
+
+{{ft/d|
+{{ft|Narrator|The first lead in Rhoda Nathan's murder came when a handyman, Elwood Jones, who worked in the same hotel, suffered a serious hand injury on the same day of the murder. At first, police weren't overly suspicious until they learned that Jones had given coworkers one explanation of the accident, but told hospital employees another. This prompted investigators to interview Jones's surgeon, Dr. McDonough.}}
+}}
+
+{{ft/d|
+{{ft|John McDonough|Well, they wanted me give them some information
+about Mr. Jones, and I told them, you know, I was sorry that Mr. Jones and I had a doctor-patient relationship, and there was an ethical problem with  me even talking to them about him in any way.}}
+}}
+
+{{ft/s|JOHN McDONOUGH, {{w|Doctor of Medicine|MD}}<br>{{smaller|HAND SURGEON}}}}
+
+{{ft/d|
+{{ft|Narrator|The {{w|Ohio Supreme Court}} had already ruled that the patient-physician privilege of confidentiality is negated when police have reasonable cause to believe that an injury resulted from violence related to a crime.}}
+}}
+
+{{ft/d|
+{{ft|John McDonough|Several days later, they came back with court orders and information that as a physician under the laws of the state of Ohio, I was required to give testimony about a case of this nature.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Dr. McDonough said at first he took Jones's word that he had cut his hand on a dumpster. But after looking at the wound more closely, Dr. McDonough knew that Jones was lying. He recognized the wound as a human bite injury, which hand specialists call a {{w|fight bite}}. It happens when a clenched fist comes into contact with teeth.}}
+}}
+
+{{ft/d|
+{{ft|John McDonough|Well, our definition of a fight bite is an injury to the hand, usually over any one of the knuckles, when someone strikes someone in the mouth during an argument. What happens is the skin is penetrated by the edge of the tooth, or the tooth may actually break off, and that sharp edge will then inoculate bacteria underneath the skin into the soft tissues of the hand. I've been doing hand surgery for about 25 years now, and I've only seen it three times, and every time I saw it, it was involved in a human bite injury involved in a fight.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|The location of the cut on Jones's knuckle pointed to this conclusion, as did the lab tests which found the human mouth bacteria ''{{w|Eikenella corrodens}}''.}}
+}}
+
+{{ft/s|{{w|Eikenella corrodens|EIKENELLA<br>CORRODENS}}}}
+
+{{ft/d|
+{{ft|John McDonough|Hitting somebody in the mouth and cutting your hand is pretty akin to cutting your hand on the bottom of a sewer.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Dr. McDonough found Jones's injury to be so unusual, he took these photographs to show his medical students. Those photographs became a critical piece of evidence.}}
+}}
+
+{{ft/d|
+{{ft|John McDonough|It was truly a case of serendipity, because at that point in time, we did not know the circumstances of Mr. Jones's injury, and what we thought was going to be a nice demonstration for a lecture turned out to be quite a bit more than that.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Further investigation into Jones's whereabouts on the day of Rhoda's murder revealed he had signed out a master passkey that morning and never returned it. Elwood Jones also had a prior criminal history—three convictions for burglary and theft. With a search warrant, investigators searched both Jones's home and that of his girlfriend and coworker, Earlene Metcalfe. Investigators examined Elwood Jones's clothes and shoes. The shoes did not match the bloody footprint
+found at the crime scene, and tests on his clothes found no trace
+of Rhoda Nathan's blood. In Jones's automobiles was a tool kit, and a master passkey from the hotel, two sets of door chains, along with a gold and diamond pendant, similar to the one Rhoda Nathan was seen wearing before her death. Investigators suspected that the marks on Rhoda's face may have been made by a door chain, like the one found in Jones's trunk. And the mark on her chest might have been caused by a {{w|walkie-talkie}} radio, similar to the one Jones used at the hotel. But the autopsy photographs were not taken exactly parallel to the victim's body, creating a slight angular distortion. An accurate photographic comparison of the wounds to these items would be impossible.}}
+}}
+
+{{ft/d|
+{{ft|Mark Piepmeier|It wasn't quick. It wasn't painless. I'm sure she lay on the floor for quite a while, hoping her friends would come back and she didn't die right away.}}
+}}
+
+{{ft/s|MARK PIEPMEIER<br>{{smaller|CHIEF TRIAL COUNSEL}}}}
+
+{{ft/d|
+{{ft|Narrator|The brutal murder of Rhoda Nathan was a terrible shock to her son, and to all who knew and loved her.}}
+}}
+
+{{ft/d|
+{{ft|Richard Rosenberg|She was vibrant. She was up. She was an optimist. She was... She had a great sense of humor. She was most proud about her kids, which is, I guess, what most of us try to be proud of. She had two lovely sons, and they've done very nicely. Nice family, nice grandchildren, nice people.}}
+}}
+
+{{ft/s|RICHARD ROSENBERG<br>{{smaller|RHODA NATHAN'S FRIEND}}}}
+
+{{ft/d|
+{{ft|Narrator|Before going on trial, investigators wanted to know if any of the items in Jones's toolbox had been used in the assault. But investigators had a problem. Distortions in the autopsy photos made it difficult to analyze the patterns of Rhoda's injuries. But police learned that the FBI had recently developed a new technology to correct perspective distortions in photographs, called photo rectification. The machine's adjustable table is first positioned to mirror the camera angle at the time the original photo was taken. The table is then moved to transform the plane on the photograph to a flat surface plane as viewed from directly overhead.}}
+}}
+
+{{ft/d|
+{{ft|Mark Piepmeier|So this machine had the ability to actually rectify or to correct the imperfection in the way the photograph was taken.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Next, investigators took the rectified photos to the {{w|Armed Forces Institute of Pathology}}. The pathologists there are experts in the study of injuries caused by weapons. The color of the autopsy photographs were altered, along with the brightness and contrast, to distinguish the injuries from marks caused by internal bleeding. It was then that marks on Rhoda's face matched the door chain in Jones's toolkit. Experts could not exclude Jones's walkie-talkie as the cause of Rhoda's chest bruise, although it did not correspond exactly.}}
+}}
+
+{{ft/d|
+{{ft|Daniel Horn|They did not have DNA. They did not have blood evidence, or hair samples, or fibers. But they did have this rather unusual technique of showing how the radio may have matched up to the bruising.}}
+}}
+
+{{ft/s|DANIEL HORN<br>{{smaller|REPORTER}}}}
+
+{{ft/d|
+{{ft|Narrator|Prosecutors believe that when Elaine and Joe left their hotel room for breakfast, Jones was watching, and thought the room was empty. He took his tool kit and a door chain so he could say he was doing some room maintenance, in case the couple came back early. Jones used the master passkey he signed out earlier that morning. Inside, he took the $500 in cash from the pocketbook. Then, Rhoda Nathan emerged from the bathroom, still wet from her shower.}}
+}}
+
+{{ft/d|
+{{ft|Rhoda Nathan|What are you doing?!}}
+}}
+
+{{ft/d|
+{{ft|Narrator|He struck Mrs. Nathan in the face with the door chain in his hand, and struck her on the chest with his walkie-talkie. He also struck Rhoda in the mouth with his fist, removing two teeth, and picking up the virulent bacteria, which caused the infection. Before leaving, Jones took the diamond necklace from Rhoda's neck and left.}}
+}}
+
+{{ft/d|
+{{ft|Mark Piepmeier|She may have even been alive and conscious when the one thing that meant the most of her, that she never took off, was snatched off her neck. And that's the kind of guy Elwood Jones is, you know? To him, it was a little trinket. To her, it was the main connection to her family, to her husband, to her whole background.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|The necklace found in Jones's toolbox was positively identified as belonging to Rhoda Nathan.}}
+}}
+
+{{ft/d|
+{{ft|Mark Piepmeier|Unbeknownst to Elwood Jones, this was a one-of-a-kind piece of jewelry. In fact, the victim in this case, her husband had it specially made for her from his own mother's wedding ring. There {{SIC|was|were}} five small diamonds that were made in a very unique pendant. And it was so special to her that even if she was taking a shower, even if she was swimming, even if she was sleeping, this pendant never, ever left her neck.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Dr. McDonough testified that Jones's hand injury and the ''{{w|Eikenella corrodens}}'' bacteria were the result of Jones's fist coming into contact with human teeth, and not on a metal dumpster as Jones claimed.}}
+}}
+
+{{ft/d|
+{{ft|Daniel Horn|There was a lot of argument about how that bite could have, or how that injury could have been infected. But the doctor was very compelling in court when he said there is no other way it could have been infected other than from a human mouth. And that proved very compelling to the jury, I'm sure.}}
+}}
+
+{{ft/d|
+{{ft|Mark Piepmeier|But of all the hospitals in the city and of all the doctors, the one guy that Elwood Jones ended up just by circumstance being assigned to that night was Dr. McDonough. And that's... Again, I can't say I feel sorry for Elwood, but I'm convinced, had he gone to any other doctor, this case wouldn't have been solved.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|The enhanced photographs of Rhoda's injuries suggested Elwood Jones's walkie-talkie and the door chain from his tool box were the most likely items used in the attack.}}
+}}
+
+{{ft/d|
+{{ft|Elwood Jones|I'm still not guilty.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Elwood Jones said he was framed by police, whom he claimed had planted Rhoda's necklace in his tool box.}}
+}}
+
+{{ft/d|
+{{ft|Daniel Horn|His contention was that he did nothing wrong, and he was just doing his job that day, and they picked him out simply because he had a record.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|The jury deliberated just ten hours. Elwood Jones was found guilty of aggravated murder, aggravated burglary, and aggravated robbery.}}
+}}
+
+{{ft/d|
+{{ft|Elwood Jones|Again, and I said I was innocent, and I'm still innocent, you know? I did not commit this crime.}}
+}}
+
+{{ft/d|
+{{ft|Mark Piepmeier|Elwood's an asshole. I mean, I don't know if I'm allowed to say that or not, but... You know, I've tried serial killers that don't bother me as much as Elwood Jones. He was just {{SIC|an arrogant|arrogant}}. He was nasty to his attorneys. He's just a nasty individual.}}
+}}
+
+{{ft/d|
+{{ft|Judge Ralph Winkler|Based upon our review, the court finds itself in complete, absolute agreement with the recommendation of the jury.}}
+}}
+
+{{ft/i|{{c|JUDGE RALPH WINKLER}}}}
+
+{{ft/d|
+{{ft|Narrator|Elwood Jones was sentenced to death. Outside the courtroom, Elwood Jones's sister reacted angrily to the sentence.}}
+}}
+
+{{ft/d|
+{{ft|Jackie Jones|What happened in the court today, it is crazy. The blue-ass police department framed my brother. The prosecutor, the judge, and everybody {{SIC|needs|need}} to be looked at in this case.}}
+}}
+
+{{ft/s|JACKIE JONES<br>{{smaller|ELWOOD JONES' SISTER}}}}
+
+{{ft/d|
+{{ft|Daniel Horn|This case was interesting for a lot of reasons, and not just because it happened in a place where you normally don't have this kind of violence. That made it more shocking maybe, but the most interesting things about this case were some of the scientific evidence that came into play, some of the forensic evidence that they found. It was not the kind of evidence you see in a lot of cases.}}
+}}
+
+{{ft/d|
+{{ft|Mike Allen|I'd like to tell him to start making peace with his maker, because I think in the very near future, he's going to meet his maker, and he's going to pay for the vicious murder that he committed.}}
+}}
+
+{{ft/s|MIKE ALLEN<br>{{smaller|PROSECUTING ATTORNEY}}}}
+
+{{ft/d|
+{{ft|Richard Rosenberg|I'd like to pull the switch. What would I say to him? I'd say I hope he dies slowly and painfully.}}
+}}
+
+{{ft/s|
+Narrator<br><br>{{w|Peter Thomas (announcer)|PETER THOMAS}}
+}}
+
+{{ft/s|
+Executive Producer<br><br>PAUL DOWLING
+}}
+
+{{ft/s|
+Senior Producer<br><br>DAVID BENNETT WASSER<br><br><br>Producer<br><br>ANN ALEXANDER<br><br><br>Associate Producer<br><br>KRISTI L. BLAZI
+}}
+
+{{ft/s|
+Assistant Producers<br><br>THERESA M. VRABEL<br>KELLY ANN MARTIN<br><br><br>Senior Editor<br><br>MIKE PUNZO<br><br><br>Editor<br><br>PAT QUINN
+}}
+
+{{ft/s|
+Art Director<br><br>JAMES W. KELLEY<br><br><br>Graphic Artists<br><br>JIM HARPER<br>MATTHEW DiGIROLAMO
+}}
+
+{{ft/s|
+Director of Photography<br><br>VINCE ELLIS<br><br><br>Production Manager<br><br>ROY B. STEINBERG<br><br><br>Post Production Coordinator<br><br>SEAN BUTLER
+}}
+
+{{ft/s|
+Production Assistants<br><br>JAY LINDEMEYER<br>TIM McCUSKER<br>DAVE ELPHICK<br>LINDA BAVER<br>CHRIS DOUGHERTY<br>MATT LEWIS<br>DARIN HEIN<br>FRANK PACHECO
+}}
+
+{{ft/s|
+Music Composed by<br><br>ALAN ETT MUSIC GROUP<br><br><br>Audio Post<br><br>CREATIVE SOUND STUDIOS
+}}
+
+{{ft/s|
+Visit Our Website<br><br>www.FORENSICFILES.com
+}}
+
+{{ft/s|
+{{c|PRODUCED BY}}
+
+
+{{c|''MEDSTAR''<sup>®</sup>}}
+
+
+{{c|COPYRIGHT MMIV MEDSTAR TELEVISION INC.<br>ALL RIGHTS RESERVED}}
+}}
+
+{{ft/s|{{c|{{xxxx-larger|FilmRise}}}}}}
+
+{{license
+ | image    = PD-icon.svg
+ | image_r  = Flag of the United States.svg
+ | category = PD-1923
+ | text     = {{license scope}} in the '''[[w:public domain|public domain]]''' in the United States because {{#switch:{{NAMESPACE}}|Author=they were|it was}} published before January 1, 2010. It may be copyrighted outside the U.S. (see [[Help:Public domain]]).|}}

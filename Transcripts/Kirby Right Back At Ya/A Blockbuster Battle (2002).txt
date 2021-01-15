@@ -1,0 +1,795 @@
+{{header
+ | title       = [[../]]
+ | author      = | override_author= [[Portal:Nintendo|Nintendo]]
+ | translator  =
+ | section     = "A Blockbuster Battle"
+ | previous    = "[[../Kirby Comes to Cappy Town|Kirby Comes to Cappy Town]]"
+ | next        = "[[../Kirby's Duel Role|Kirby's Duel Role]]"
+ | year        = 2002
+ | notes       = {{Film|Two Wet Bears.webm|thumbtime=|size=400px}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|We gotta do something. We gotta get rid of Kirby somehow before he gets settled in here.}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Well, King Dedede, if you want my opinion—}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Who wants your opinion? What I want's a monster that's gonna get rid of that little pink pest once and for all.}}
+}}
+
+{{ft/d|
+{{ft|NME sales guy|Welcome back to Nightmare Enterprise's online monster site, King Dedede. As you know, we offer a full line of powerful monsters.}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Yeah, well that octopus you sent me last time was a weaklin'.}}
+}}
+
+{{ft/d|
+{{ft|NME sales guy|Now that we know your opponent is Kirby, all our monsters have new improved attack powers. See what I mean?}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|They look like rejects to me. I need something strong enough to get rid of that Kirby, for good!}}
+}}
+
+{{ft/d|{{c|Kirby, Kirby, Kirby, that's a name you should know. Kirby, Kirby, Kirby, he's the star of the show. He's more than you think. He's got maximum pink. Kirby, Kirby, Kirby's the one. He comes right back at ya! He comes right back at ya! Give it all that you got. Take your very best shot. He'll send it right back at ya for sure, yeah!}}}}
+
+{{ft/d|
+{{ft|NME sales guy|How can I help you, King Dedede?}}
+{{ft|King Dedede|I need a monster to clobber that there Kirby.}}
+{{ft|NME sales guy|That's what we do best at NME.}}
+{{ft|Escargoon|You better get it with a money-back guarantee!}}
+}}
+
+{{ft/d|{{c|Whoa, Kirby, Kirby, Kirby, savin' the day. Kirby, Kirby, Kirby, he's here to stay. Don't be fooled by his size. You won't believe your eyes. Kirby! Kirby! Kirby! Kirby! Kirby! Kirby! Kirby, Kirby, Kirby's the one! Right back at ya! Yeah!}}}}
+
+{{ft/s|{{c|{{xxxx-larger|Kirby}}<br>Right Back at Ya!}}}}
+
+{{ft/d|
+{{ft|Fololo and Falala|One and one and one is three. We don't like King Dedede! Two and two and two is six. He weighs the same as a ton of bricks. Three and three and three is nine. He has a robe that—}}
+}}
+
+{{ft/d|
+{{ft|Spikehead|Okay, it's your turn, Kirby.}}
+}}
+
+{{ft/d|
+{{ft|Honey|Come on, Kirby.}}
+}}
+
+{{ft/d|
+{{ft|Tuff|I don't know about this.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Why? What do you mean?}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Kirby shouldn't be learning how to jump rope. He's a Star Warrior. He should be learning Star Warrior stuff.}}
+}}
+
+{{ft/d|
+{{ft|Tokkori|Wraa! Listen up, junior, this is my nest! No pinkos allowed! Now hit the road!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Hey, he's our friend! Let him in, Tokkori!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|He just needs a place to stay for a while!}}
+}}
+
+{{ft/d|
+{{ft|Tokkori|Let him get his own place!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Kirby does need a place to stay.}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Yeah, I never thought of that before.}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Blustergas|Hello, there, Tiff.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Hi.}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Blustergas|Would you and your friends like to come in out of the rain?}}
+}}
+
+{{ft/d|
+{{ft|Tiff|That's okay, ma'am, but there is something you could do to help us.}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Blustergas|Sure, Tiff. What's that?}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Would it be alright if Kirby came here to live with you?}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Blustergas|Kirby, live here?! You're such a kidder.}}
+}}
+
+{{ft/d|
+{{ft|Chef Kawasaki|I'm afraid not, Tiff.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Why can't Kirby work here, Chef Kawasaki?}}
+}}
+
+{{ft/d|
+{{ft|Chef Kawasaki|He has no prior experience. That's why!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|He'd work for free, and all you'd have to do is feed him and let him sleep here.}}
+}}
+
+{{ft/d|
+{{ft|Chef Kawasaki|Your whole family lives up in King Dedede's castle. Why can't Kirby just stay with you?}}
+}}
+
+{{ft/d|
+{{ft|Tiff|King Dedede hates Kirby.}}
+}}
+
+{{ft/d|
+{{ft|Chef Kawasaki|Is that so? Well, any enemy of the King is a friend of mine.}}
+}}
+
+{{ft/d|
+{{ft|Spikehead|Chef Kawasaki sure keeps Kirby busy.}}
+}}
+
+{{ft/d|
+{{ft|Honey|Yeah, but at least Kirby has a place to stay.}}
+}}
+
+{{ft/d|
+{{ft|Tuff|It doesn't seem right for a warrior to work as a waiter.}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Where's the menu?}}
+}}
+
+{{ft/d|
+{{ft|Chef Kawasaki|Your Majesty, it's an honor to have such a regal, royal—}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Can it, fry boy!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Lemme see, here. I'll have the {{SIC|Shanto Breean|See Notes 1}} for two for my entrée, and I'll start off with some snails.}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Don't have snails. They take too long.}}
+}}
+
+{{ft/d|
+{{ft|Iro|King Dedede never eats out.}}
+}}
+
+{{ft/d|
+{{ft|Falala|He and Escargoon must be up to something.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Maybe.}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Have a nice trip there, boy?}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Try to keep the food on the menu and not on the floor.}}
+}}
+
+{{ft/d|
+{{ft|Chef Kawasaki|Watch what you're doing, Kirby!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Hahahahaha!}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Kirby's sure striking out with the plates.}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Let's see if he can slide.}}
+}}
+
+{{ft/d|
+{{ft|Chef Kawasaki|Kirby's wrecking my restaurant!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Don't blame him! Blame the King and Escargoon!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Yeah, they made Kirby mess up!}}
+}}
+
+{{ft/d|
+{{ft|Chef Kawasaki|That may be true, Tuff, but I can't fire the King.}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Hahahahahahaha!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Kirby! Look out!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|That Kirby's nothin' but a troublemaker, Tokkori, so we gotta make sure he don't make trouble here.}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|If they find Kirby a place to live, pretty soon every face in town will be pink.}}
+}}
+
+{{ft/d|
+{{ft|Tokkori|Well, not if I can help it!}}
+}}
+
+{{ft/d|
+{{ft|Professor Curio|I suppose I could use an assistant. But all the items here are extremely valuable. I've got artifacts from ancient Dreamlandian civilizations 20,000 years old, so Kirby would have to be very careful!}}
+}}
+
+{{ft/d|
+{{ft|Professor Curio|I think I'll lie down for a moment.}}
+}}
+
+{{ft/d|
+{{ft|Gus|Did Kirby ever pump gas before?}}
+}}
+
+{{ft/d|
+{{ft|Tiff|I don't think so, but if you let him live here, I'm sure he could learn how to.}}
+}}
+
+{{ft/d|
+{{ft|Gus|Pumping gas can be tricky. There could be trouble if he goes pushing the wrong buttons.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Oh, Kirby wouldn't do that.}}
+}}
+
+{{ft/d|
+{{ft|Gus|Oh, lemme at that Kirby! I'll push his buttons!}}
+}}
+
+{{ft/d|
+{{ft|Tokkori|I said no, and I meant it!}}
+}}
+
+{{ft/d|
+{{ft|Coo|But they've tried all over Cappy Town, and nobody will let Kirby live with them.}}
+}}
+
+{{ft/d|
+{{ft|Tokkori|Not my problem. That just means folks around here got good judgment. I say, let Kirby go back where he came from!}}
+}}
+
+{{ft/d|
+{{ft|Coo|Sorry, Tiff. Tokkori's a tough old bird. Maybe you should try to find another tree.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Another tree? Coo, that's a great idea!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Okay, here's the plan. We're gonna build Kirby his very own tree house!}}
+}}
+
+{{ft/d|
+{{ft|Rick|Aye, mate. You must be Kirby. My name's Rick. I believe you're headed in this direction. G'day!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|You gotta add some spikes over—}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|You're joshing! You were supposed to make sure Kirby didn't find a place to stay!}}
+}}
+
+{{ft/d|
+{{ft|Tokkori|I tried!}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Lousy brats!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Yahahaha! Well, if I can't get rid of Kirby the sneaky way, I'll just have to do it the freaky way.}}
+}}
+
+{{ft/d|
+{{ft|NME sales guy|King Dedede! We have a special monster we can send you today.}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Good, get it online.}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|What is this, a paperweight?}}
+}}
+
+{{ft/d|
+{{ft|NME sales guy|No, King, it's a monster—a super high-density monster. We like to call him Blocky.}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Well, what am I supposed to do, drop it in the road and wait for Kirby to trip over it?}}
+}}
+
+{{ft/d|
+{{ft|NME sales guy|Just let me give you a little demo.}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Hahahahaha! Heeheehee! Come on!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Ohh!}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|This thing's even heavier than you are!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Yeah, big enough to crush Kirby!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Thanks to you and all your hard work, our new friend finally has a place to live! The Star Warrior has a home at last. Now, let's give a housewarming welcome to Kirby!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Here goes!}}
+}}
+
+{{ft/i|{{c|C<br>O<br>N<br>G<br>R<br>A<br>T<br>[...]}}}}
+
+{{ft/d|
+{{ft|Mayor Len|This is the perfect place for Kirby!}}
+}}
+
+{{ft/d|
+{{ft|Chief Bookem|Yeah, it's out of town.}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|This here's illegal gathering, so if you rioters don't want to get incarcerated, cease and disperse immediately.}}
+}}
+
+{{ft/d|
+{{ft|Mayor Len|Rioters?}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Hey, we're just having a party!}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Oh, goody, they're resisting.}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Then I am forced to use force.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Kirby!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Are you okay?}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Ahahahaha! Look, it's the ringleader.}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Yeah! Now, let's show him who his new challenger is.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|What's that?}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Ahahahaha! You just wait and see! Hahahaha!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Kirby!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Look out!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Kirby!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Get him, Tiff!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Don't worry, Kirby. Blocky flattened you out.}}
+}}
+
+{{ft/d|
+{{ft|Tuff|But we'll fatten you up again. Haha!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Here it comes again!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Kirby, suck it up.}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Something's the matter, Tiff.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Yeah, but what?}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Kirby can't handle a heavyweight. Hahahahaha!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Kirby!}}
+}}
+
+{{ft/d|
+{{ft|Tokkori|Wraa! I already told you, this is my nest! Now get your big pink {{SIC|puss|bosom? butt? puff?}} outta here!}}
+}}
+
+{{ft/d|
+{{ft|Tokkori|Aah! It's time for you to make like a tree and leave!}}
+}}
+
+{{ft/d|
+{{ft|Tokkori|Hey, what's the big idea, buster? I was on your side, and you totaled my tree!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Hmm. Now where's that Kirby at?}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|I don't see him, sire.}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Then let's find him.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|We won't be safe here for long.}}
+}}
+
+{{ft/d|
+{{ft|Tuff|I thought for sure Kirby would've been able to beat that block.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Yeah, I wonder why he couldn't.}}
+}}
+
+{{ft/d|
+{{ft|Meta Knight|I can tell you why.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Meta Knight!}}
+}}
+
+{{ft/d|
+{{ft|Meta Knight|Your opponent is made of a super high-density matter.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Super high-density?}}
+}}
+
+{{ft/d|
+{{ft|Tuff|What's that mean?}}
+}}
+
+{{ft/d|
+{{ft|Meta Knight|It is too heavy to be sucked up by Kirby.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Oh, no!}}
+}}
+
+{{ft/d|
+{{ft|Meta Knight|But if you can find a way to turn your opponent's strength against him, Kirby can triumph.}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Tiff, Meta Knight works for King Dedede. What's he want to help Kirby for?}}
+}}
+
+{{ft/d|
+{{ft|Tiff|We don't have time to think about that now! We have to get Kirby in shape for a rematch!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|He does great with regular rocks.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Now let's try something bigger.}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Kirby, see if you can suck up that one!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|It's too heavy!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Kirby doesn't have the strength to suck up something that weighs that much.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|That's how you're gonna beat Blocky.}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|I know I heard the sound of sucking over here somewhere.}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Kirby must be nearby.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Hey, Dedede! Do what you want to, but you're not gonna run Kirby out of Cappy Town!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Kirby won't be running nowhere when Blocky gets done with him.}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Time to say "bye, bye, Kirby, bye, bye."}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Okay, Kirby. You know what to do.}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Back this thing up.}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|You got it, Triple-D.}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|That puny little puff ain't strong enough to suck up my big ol' Blocky. Ahahahaha!}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Sire, look!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|You can do it!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Go, Kirby!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Wow!}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Yahahay!}}
+}}
+
+{{ft/d|
+{{ft|Meta Knight|Their opponent's weight was its strength. Now they have turned it to their advantage.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Yippee! Yay! Yay!}}
+{{ft|Tuff|Yippee! Yay! Yahay!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Don't be too happy! Kirby only sucked up a piece of Blocky.}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|What's going on?}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Kirby transforms into whatever it inhales.}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Blocky, you're still three times the size of Kirby. Crush him into gravel!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Kirby copied Blocky.}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Yeah, now Kirby's a rock Star Warrior.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Yay! Yay! Yay!}}
+{{ft|Tuff|Yay! Yay! Yahay!}}
+}}
+
+{{ft/d|
+{{ft|Tokkori|Attaboy, Kirby! Sock it to 'em! You're the stone cold kid! Hmph!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|Kirby's getting away. Quit messing around and pull yourself together!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|You dumb blockhead!}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|We're sunk and so is he!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Kirby...}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Yay! Yay! Kirby!}}
+{{ft|Tuff|Yay! Yay! Hooray!}}
+}}
+
+{{ft/d|
+{{ft|King Dedede|I'm gonna miss my little Blocky!}}
+}}
+
+{{ft/d|
+{{ft|Escargoon|Well, sire, it just goes to show you shouldn't take your monsters for granted.}}
+}}
+
+{{ft/d|
+{{ft|Tiff|We think a Star Warrior deserves a nice place to live, so we pitched in and built you your very own house.}}
+}}
+
+{{ft/d|
+{{ft|Tuff|Welcome home, Kirby!}}
+}}
+
+{{ft/d|
+{{ft|Falala|It isn't very big, but neither are you.}}
+}}
+
+{{ft/d|
+{{ft|Fololo|Check out the bed, Kirby.}}
+}}
+
+{{ft/d|
+{{ft|Tokkori|Can't a bird get any peace and quiet in this town?!}}
+}}
+
+{{ft/d|
+{{ft|Tiff|Tokkori!}}
+}}
+
+{{ft/d|
+{{ft|Tokkori|I came in here to see what the place was like, and I took a liking to it, so I'm moving in.}}
+}}
+
+{{ft/d|
+{{ft|Tuff|You tried to get Kirby thrown out of Cappy Town, and now you want to throw him out of his own house?!}}
+}}
+
+{{ft/d|
+{{ft|Tokkori|That kid can take care of himself. He'll find a place.}}
+}}
+
+{{ft/d|
+{{ft|Tuff|I guess Kirby got his tree house after all.}}
+}}
+
+{{ft/d|{{c|Kirby! Kirby! Kirby! Kirby! Kirby! Kirby! Kirby, Kirby, Kirby's the one! Right back at ya! Yeah!}}}}
+
+{{ft/s|{{c|''Executive Producers''<br>Gail Tilden<br>Alfred R. Kahn<br>Norman J. Grossfeld}}}}
+
+{{ft/s|{{c|''Producer''<br>Michael Haigney<br><br>''US Production by''<br>{{w|4Kids Productions|{{SIC|4 Kids|4Kids}} Productions, Inc.}}<br><br>''Voice Director''<br>Andrew Rannells}}}}
+
+{{ft/s|{{c|''Script Adaptations''<br>John Touhey<br>Michael Haigney<br>Ted Lewis<br><br>''Lead Voices''<br>Ted Lewis<br>Kerry Williams<br>Kayzie Rogers<br>Makiko Oomoto}}}}
+
+{{ft/s|{{c|''Additional Voices''<br>Amy Birnbaum<br>Maddie Blaustein<br>Dan Green<br>Tara Jayne<br>Kevin Kolack<br>David Lapkin<br>Jerry Lobozzo<br>Ellen Lee<br>Nappy<br>Mike Pollock<br>Andrew Rannells<br>Eric Stuart}}}}
+
+{{ft/s|{{c|''Editor''<br>Chris Guido<br><br>''Associate Producer''<br>Julie Rath<br><br>''Creative Management''<br>Melinda Porter<br><br>''Adaptation Coordination''<br>Jaime Stemmermann<br><br>''Translations by''<br>Paul Taylor}}}}
+
+{{ft/s|{{c|''Graphics''<br>Paul J. Baccash<br>Rob Bruce<br>Lucialie Dumaguing<br>Ryan Kelly<br>Jennifer Obrotka<br><br>''Kirby Theme by''<br>Norman J. Grossfeld<br>Ralph Schuckett<br><br>''Music Producers''<br>John Sands<br>John Siegler}}}}
+
+{{ft/s|{{c|''Music Composers''<br>Ralph Schuckett<br>Manny Corallo<br>Wayne Sharpe<br>John VanTongeren<br>Louis Cortelezzi<br>Rusty Andrews<br>Peter Scaturro<br>John Siegler<br><br>''Music Production Coordinator''<br>Jonathan Lattif}}}}
+
+{{ft/s|{{c|''Sound Supervisor''<br>Ron London<br><br>''{{w|Automated dialogue replacement|ADR}} Engineers''<br>Shawn Conrad<br>Ron London<br>Alon Namdar<br>Ohad Tzachar<br><br>''Assistant Editors''<br>Michael Charters<br>David Etzold}}}}
+
+{{ft/s|{{c|''Production Assistant''<br>Joan Vollero<br><br>''Head of Production''<br>Michael Attanasio<br><br>''Production Supervisor''<br>Brenda Dillon<br><br>''Marketing Director''<br>Susan Eisner}}}}
+
+{{ft/s|{{c|''Japanese Production by''<br>Warpstar<br><br>''Original Concept''<br>{{w|Masahiro Sakurai}}<br><br>''General Director''<br>{{w|Soji Yoshikawa}}}}}}
+
+{{ft/s|{{c|''Animation Director''<br>Mitsuo Kusakabe<br><br>''Animation Supervisor''<br>Yoichi Kotabe<br><br>''Character Designer''<br>Miyuki Shimabukuro<br><br>Visual Director<br>Kazuo Iimura}}}}
+
+{{ft/s|{{c|''{{w|3D computer graphics|3DCG}} Directors''<br>Keiji Nakatsuji<br>Daisuke Saito<br>Akira Takamura<br>Hirotsugu Murayama<br><br>''Art Director''<br>Manami Koyama<br><br>''Animation Producers''<br>Seiichi Hirano<br>Noriko Nishimiya}}}}
+
+{{ft/s|{{c|''Creative Supervisors''<br>Tetsuya Notoya<br>Masanobu Yamamoto<br>Hiroshi Fujie<br>Misako Mohri<br><br>''Creative Management''<br>Yusuke Beppu<br>Yoichi Yamamoto<br><br>''Creative Planning''<br>Hitoshi Shiogai<br>Aki Oda}}}}
+
+{{ft/s|{{c|''Producers''<br>Satoru Iwata<br>Masayoshi Tanimura<br>Masayoshi Ozaki<br><br>''General Supervisor''<br>Hiroshi Yamauchi<br><br>''Creative Cooperation''<br>Studio-Sign<br><br>''3DCG Creative Cooperation''<br>Overlord<br><br>''Animation Works''<br>A-UN Entertainment}}}}
+
+{{ft/s|{{c|© 2002<br>Nintendo / HAL Laboratory, Inc.<br><br>Kirby and all other Kirby character names are trademarks of Nintendo.}}}}
+
+{{ft/s|{{c|{{xxxx-larger|4Kids}}<br><u>ENTERTAINMENT</u>}}}}
+
+{{license
+ | image    = PD-icon.svg
+ | image_r  = Flag of the United States.svg
+ | category = PD-1923
+ | text     = {{license scope}} in the '''[[w:public domain|public domain]]''' in the United States because {{#switch:{{NAMESPACE}}|Author=they were|it was}} published before January 1, 2010. It may be copyrighted outside the U.S. (see [[Help:Public domain]]).|}}
+
+==Notes==
+# What is this even supposed to mean? It was labelled [https://web.archive.org/web/20200712005827/https://www.fanfiction.net/s/13321105/2/Kirby-Right-Back-At-Ya-For-Real here] as being "Shanto Breean" and was labelled as ''sic'' there, but I'm unaware as to what that's actually supposed to be.

@@ -1,0 +1,549 @@
+{{ft/s|{{c|{{larger|THE<br>DREADED<br>HUMAN SPIDER}}}}}}
+
+{{ft/d|
+{{ft|Mayor Rosenbaum|I'd like to bring this town council meeting to order, and I want to remind everyone that, even though we're convening outdoors today, we will conduct ourselves with the same professionalism of a city-hall meeting. Now, ahem, first order of business—pass the coleslaw.}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Bryerson|Mayor Rosenbaum! We're under attack! We're under attack!}}
+}}
+
+{{ft/d|
+{{ft|Mayor Rosenbaum|Who? Who's attacking?}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Bryerson|Aphids! And Japanese beetles! They've overrun my garden. It's only a matter of time before this whole town is under siege!}}
+}}
+
+{{ft/d|
+{{ft|Mayor Rosenbaum|Uh, uh, well, uh, we'll be getting around to the matter of the bug invasion in due time, Mrs. Bryerson. Uh, eheheh! Thanks for dropping by!}}
+}}
+
+{{ft/d|
+{{ft|Mayor Rosenbaum|Ohoho, aphids! Bug invasion! Gasp!}}
+}}
+
+{{ft/d|
+{{ft|Male citizen 1|Oh! Oh! Oh! Ugh!}}
+{{ft|Female citizen|Ahh! Ahh! Ow! Ow!}}
+{{ft|Male citizen 2|Ow!}}
+}}
+
+{{ft/d|
+{{ft|Students|Hahahahahahahahahahahahahaha!}}
+}}
+
+{{ft/d|
+{{ft|Miss Gotto|Class, settle down.}}
+}}
+
+{{ft/d|
+{{ft|Herb Crofton|Gotcha!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Whoa!}}
+}}
+
+{{ft/d|
+{{ft|Miss Gotto|I'd like to present our special guest, Herb Crofton!}}
+}}
+
+{{ft/d|
+{{ft|Students|Yay! Woohoo!}}
+}}
+
+{{ft/d|
+{{ft|Miss Gotto|Class! Herb is an entomologist. Does anyone know what that means?}}
+}}
+
+{{ft/d|
+{{ft|Miss Gotto|Mona?}}
+}}
+
+{{ft/d|
+{{ft|Mona|Knower of all things creepy, slimy, and squirmy—your basic bug guy.}}
+}}
+
+{{ft/d|
+{{ft|Miss Gotto|Very good. This week, Herb's traveling exotic insect collection is being featured at the Insectodome. Please welcome him!}}
+}}
+
+{{ft/d|
+{{ft|Students|Yay! Woohoo! Oh, cool! Neato!}}
+}}
+
+{{ft/d|
+{{ft|Herb Crofton|Hello, kids! Meet a friend of mine, the giant actaeon beetle from South America.}}
+}}
+
+{{ft/d|
+{{ft|Students|Wow! Cool! Look at that! That's so cool!}}
+}}
+
+{{ft/d|
+{{ft|Herb Crofton|He cleans up the leaf mold from forest floors. This beauty is a giant Amazon dragonfly.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Neat!}}
+}}
+
+{{ft/d|
+{{ft|Herb Crofton|And this is my favorite—she's tiny, but has loads of character. Say hello to Wilma the Centipede!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Neat! Huh? Lily, what's wrong?}}
+}}
+
+{{ft/d|
+{{ft|Lily|I-I hate bugs. They creep me out!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Don't be silly. There's nothing to be afraid of. You're a trillion times bigger than they are.}}
+}}
+
+{{ft/d|
+{{ft|Herb Crofton|Would anyone like to come up and take a look?}}
+}}
+
+{{ft/d|
+{{ft|Lily|Ooh!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Watch! I'll prove it.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Gasp!}}
+}}
+
+{{ft/d|
+{{ft|Herb Crofton|Uh, these critters are harmless!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Agh!}}
+}}
+
+{{ft/d|
+{{ft|Herb Crofton|It's okay.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Ahh!}}
+}}
+
+{{ft/d|
+{{ft|Students|Ahh!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Lily?}}
+}}
+
+{{ft/d|
+{{ft|Lily|Ahh!}}
+}}
+
+{{ft/d|
+{{ft|Mona|I saw his antennae up close. Herb Crofton is really a highly evolved insect in disguise. We have to find out what he's up to...and stop him.}}
+}}
+
+{{ft/d|
+{{ft|Charley|But what do we know about giant insects? We specialize in aliens and poltergeezers!}}
+}}
+
+{{ft/d|
+{{ft|Lily|Yeah.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Well, I was kind of hoping you guys would help, but if I have to solve this case alone...}}
+}}
+
+{{ft/d|
+{{ft|Charley|Don't worry, Mona. You could count on me!}}
+}}
+
+{{ft/d|
+{{ft|Lily|Sigh... Me too.}}
+}}
+
+{{ft/d|
+{{ft|Radio announcer|Owing to the late summer weather, larvae breeding patterns have been accelerated, resulting in intense swarms of flying insects.}}
+}}
+
+{{ft/d|
+{{ft|Angela|Ahh! Ick! Bugs! Ick, I'm all wet!}}
+}}
+
+{{ft/d|
+{{ft|Barber|Gasp, ahh! Gasp! Ahh! Ahh!}}
+}}
+
+{{ft/d|
+{{ft|Boy|Ahh!}}
+}}
+
+{{ft/d|
+{{ft|Lily|Ugh! There are bugs everywhere!}}
+}}
+
+{{ft/d|
+{{ft|Charley|Something really weird is going on.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Our buggy friend Herb must be leading some sort of insect invasion, but we'll stop him. He's no match for Mona the Vampire, Zapman, and Princess... Hey, Lily, where's your Princess Giant costume?}}
+}}
+
+{{ft/d|
+{{ft|Lily|Oh, um, it's at the cleaners.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Really?}}
+}}
+
+{{ft/d|
+{{ft|Charley|We have to find Herb Crofton, but where would a giant bug hang out?}}
+}}
+
+{{ft/d|
+{{ft|Mona|Giant bugs have to eat every couple of hours to keep their strength up. So, if you were a big hungry bug, where would you go?}}
+}}
+
+{{ft/d|
+{{ft|Mona|He must be here somewhere!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Attention, all shoppers—please report any sightings of a giant five-and-a-half-foot insect immediately to "frightened kabushnu."}}
+}}
+
+{{ft/d|
+{{ft|Shoppers|Ahh!}}
+}}
+
+{{ft/i|{{c|M}}
+
+{{c|M}}
+}}
+
+{{ft/d|
+{{ft|Mona|Thanks for shopping at Gold's Grocery.}}
+}}
+
+{{ft/d|
+{{ft|Mona|We've checked every grocery store in town.}}
+}}
+
+{{ft/d|
+{{ft|Charley|All this searching has made me hungry. Let's stop for pizza!}}
+}}
+
+{{ft/d|
+{{ft|Lily|Gasp! It's him!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Gasp!}}
+}}
+
+{{ft/d|
+{{ft|Charley|He's onto us being onto him!}}
+}}
+
+{{ft/d|
+{{ft|Mona, Charley, and Lily|Ahh!}}
+}}
+
+{{ft/d|
+{{ft|Mona, Charley, and Lily|Gasp!}}
+}}
+
+{{ft/d|
+{{ft|Lily|What are they doing?}}
+}}
+
+{{ft/d|
+{{ft|Mona|I knew it. He is responsible for the bug invasion.}}
+}}
+
+{{ft/d|
+{{ft|Herb Crofton|Good work! Break for lunch, and then we'll get to the other side of town.}}
+}}
+
+{{ft/d|
+{{ft|Worker drone|Peanut butter and larvae—my favorite!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Of course! They're just worker drones. I bet they were perfectly normal human beings until he transformed them!}}
+}}
+
+{{ft/d|
+{{ft|Herb Crofton|Hey kids!}}
+}}
+
+{{ft/d|
+{{ft|Mona, Charley, and Lily|Wah!}}
+}}
+
+{{ft/d|
+{{ft|Herb Crofton|Your class is coming to visit me at the Insectodome tomorrow, isn't it?}}
+}}
+
+{{ft/d|
+{{ft|Mona|Yeah. Can't wait!}}
+}}
+
+{{ft/d|
+{{ft|Lily|Uh, gotta go!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Miss Gotto, you have to cancel tomorrow's...trip...}}
+}}
+
+{{ft/d|
+{{ft|Miss Gotto|I'm afraid that won't be possible. I've promised Mr. Crofton we'd go. Sigh, Herb is such a unique man! Ahahaha!}}
+}}
+
+{{ft/d|
+{{ft|Mona, Charley, and Lily|Ahh!}}
+}}
+
+{{ft/d|
+{{ft|Mona|I bet he's concocting some evil plan to turn us all into worker drones! Flypaper, ant traps, roach spray, and of course, mosquito repellent.}}
+}}
+
+{{ft/d|
+{{ft|Charley|I went home and got my Zapperama shrink and ray gun.}}
+}}
+
+{{ft/d|
+{{ft|Lily|Sigh...}}
+}}
+
+{{ft/d|
+{{ft|Charley|You never know when you might need to shrink a giant humanoid insect down to size.}}
+}}
+
+{{ft/d|
+{{ft|Mona|It's bug-stopping time!}}
+}}
+
+{{ft/d|
+{{ft|Lily|I can't go! I'm too scared of little bugs. There's no way I can fight giant ones!}}
+}}
+
+{{ft/d|
+{{ft|Fang|Meow.}}
+}}
+
+{{ft/d|
+{{ft|Mona|That's okay, Lily. You can sit this one out.}}
+}}
+
+{{ft/d|
+{{ft|Charley|Yeah, and if we don't make it back, you can tell the world our story.}}
+}}
+
+{{ft/d|
+{{ft|Lily|Eheheheh!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Look! There he is, and he's with the Mayor!}}
+}}
+
+{{ft/d|
+{{ft|Herb Crofton|Well, everything's going according to plan.}}
+}}
+
+{{ft/d|
+{{ft|Mayor Rosenbaum|Good, good, that's wonderful!}}
+}}
+
+{{ft/d|
+{{ft|Mona|He's hypnotized the Mayor!}}
+}}
+
+{{ft/d|
+{{ft|Mayor Rosenbaum|Well, let's hurry. You must address the town council at once!}}
+}}
+
+{{ft/d|
+{{ft|Charley|Oops!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Gasp!}}
+}}
+
+{{ft/d|
+{{ft|Herb Crofton|So, we meet again! Rgh!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Yes we do, bug-man, and we're gonna blow your whole creepy operation! Take that!}}
+}}
+
+{{ft/d|
+{{ft|Herb Crofton|Yum!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Okay, then how about some of this?}}
+}}
+
+{{ft/d|
+{{ft|Herb Crofton|Delicious!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Stand back!}}
+}}
+
+{{ft/d|
+{{ft|Mona|How do you like that?}}
+}}
+
+{{ft/d|
+{{ft|Herb Crofton|Meh, too floral. You know, you two would make excellent specimens for my collection!}}
+}}
+
+{{ft/d|
+{{ft|Lily|I can do this. I've got to for Mona and Zapman. I can't desert them. And Mona was right—bug or no bug, he's no match for Princess Giant!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Use your shrinking ray gun, Zapman!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Nice work, Zapman.}}
+}}
+
+{{ft/d|
+{{ft|Herb Crofton|Mm, yum!}}
+}}
+
+{{ft/d|
+{{ft|Charley|I think he thinks we're dinner! Run!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Wah!}}
+{{ft|Charley|Whoa!}}
+}}
+
+{{ft/d|
+{{ft|Mona and Charley|Whoa! A-a-achoo!}}
+}}
+
+{{ft/d|
+{{ft|Charley|Whoa!}}
+}}
+
+{{ft/d|
+{{ft|Lily|Hey, wormy, why don't you pick on somebody your own size?}}
+}}
+
+{{ft/d|
+{{ft|Mona|Princess Giant! Gasp! Look out!}}
+}}
+
+{{ft/d|
+{{ft|Herb Crofton|Mm... Buggy, buggy! Buggy, buggy!}}
+}}
+
+{{ft/d|
+{{ft|Lily|You know, you're really beginning to bug me!}}
+}}
+
+{{ft/d|
+{{ft|Herb Crofton|Wah! Please don't squish me! I'm a good insect! I'm not really a pest!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Thanks, Lily. I knew you'd come around!}}
+}}
+
+{{ft/d|
+{{ft|Lily|I couldn't just abandon my friends to this creepy crawler!}}
+}}
+
+{{ft/d|
+{{ft|Herb Crofton|Wahahah!}}
+}}
+
+{{ft/d|
+{{ft|Mona|It's time to come clean, bug-man.}}
+}}
+
+{{ft/d|
+{{ft|Charley|Yeah! We know you're responsible for the bug invasion. We saw your worker drones releasing those bugs in the park!}}
+}}
+
+{{ft/d|
+{{ft|Herb Crofton|No, no! Uh, what you saw was my army of bug peacekeepers who travel the globe resolving insecto-human conflicts.}}
+}}
+
+{{ft/d|
+{{ft|Lily|But what about Miss Gotto?}}
+}}
+
+{{ft/d|
+{{ft|Herb Crofton|Ohoho, I never meant any harm! I just wanted to settle down, to lead a normal life, have a girlfriend. Do you know how hard it is to attract girls looking like this?!}}
+}}
+
+{{ft/d|
+{{ft|Mona|You have a point. I guess giant bugs get lonely too. Wait! I have an idea.}}
+}}
+
+{{ft/d|
+{{ft|Herb Crofton|Wilma! Oh, I never realized how beautiful you are—your feet, your lovely brown skin...}}
+}}
+
+{{ft/d|
+{{ft|Mona|Wait! What about Miss Gotto?}}
+}}
+
+{{ft/d|
+{{ft|Charley|We can't have a bug for a teacher!}}
+}}
+
+{{ft/d|
+{{ft|Herb Crofton|Don't worry. Metamorphosis wears off after an hour or so. Tell her I said "goodbye."}}
+}}
+
+{{ft/d|
+{{ft|Miss Gotto|Has anyone seen Herb Crofton? {{SIC|I'm|I}}, um, wanted to ask him some questions about his project.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Oh, you mean his work with the insecto-human peacekeepers?}}
+}}
+
+{{ft/d|
+{{ft|Miss Gotto|Uh, no. I mean his introduction of ladybugs, and green lacewings, and other natural enemies of the insects that have infested our town.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Oh, uh, well, he had to go.}}
+}}
+
+{{ft/d|
+{{ft|Lily|I think he found someone very important he had to talk to.}}
+}}
+
+{{ft/d|
+{{ft|Miss Gotto|Sigh... I...see.}}
+}}

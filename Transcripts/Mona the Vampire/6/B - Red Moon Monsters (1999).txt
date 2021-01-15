@@ -1,0 +1,531 @@
+{{ft/d|
+{{ft|Mona|Hello, and welcome to ''Creepy Cooking''! I'm your host, Mona the Vampire, and this is my assistant, Fang.}}
+}}
+
+{{ft/d|
+{{ft|Fang|Meow!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Today's recipe will be the classic favorite—fire giant fingers and space frog mash. When choosing fire giant fingers, make sure they're fresh.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Lily, what's wrong?}}
+}}
+
+{{ft/d|
+{{ft|Lily|I overheard my parents talking. My mother's gonna get a new job, which means we'll probably have to move!}}
+}}
+
+{{ft/d|
+{{ft|Charley|But you can't move away. We're like the Three Musketeers.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Only scarier!}}
+}}
+
+{{ft/d|
+{{ft|Charley|Well, we sure had some good times together.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Yeah! Remember the time we first met?}}
+}}
+
+{{ft/d|
+{{ft|Lily|Now that was an adventure.}}
+}}
+
+{{ft/d|
+{{ft|Mona|It all started the day before Angela's birthday.}}
+}}
+
+{{ft/s|{{c|{{larger|RED<br>MOON<br>MONSTERS}}}}}}
+
+{{ft/d|
+{{ft|Students|Alright! School's out! Yeah!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Charley and I were heading back home, after defeating an onslaught of evil homework trolls! We were walking along, when all of a sudden...}}
+}}
+
+{{ft/i|{{c|Chroxy}}
+
+{{c|Ricol<br>{{xx-smaller|3.50}}}}}}
+
+{{ft/d|
+{{ft|Mona|Oof!}}
+{{ft|Angela|Ugh!}}
+{{ft|Charley|Ouch!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Hey! Watch where you're—}}
+}}
+
+{{ft/d|
+{{ft|Angela|Apology accepted.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Wha?}}
+}}
+
+{{ft/d|
+{{ft|Angela|Nothing you can do can put me in a bad mood, Mona, because tomorrow is my birthday! I'm going to have a Japanese lantern party, with sushi, and green tea cake, and a kabuki performance. Of course, I have to limit the guest list to only 100 of my closest friends, so unfortunately you two didn't make the cut.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Big deal! I'm washing my cape that day anyway.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Charley, look at that!}}
+}}
+
+{{ft/d|
+{{ft|Charley|A rocket ship ride?}}
+}}
+
+{{ft/d|
+{{ft|Mona|No, Charley. The rocket's different. The old, scratched-up, yellow one has been replaced! This is a brand-new, red, real alien rocket!}}
+}}
+
+{{ft/d|
+{{ft|Charley|But how did it get here?}}
+}}
+
+{{ft/d|
+{{ft|Mona|It's obvious!}}
+}}
+
+{{ft/d|
+{{ft|Mona|An alien ship flying by Earth ran into mechanical problems, and crashed here. The store owners had the ride repaired, mistaking the real rocket for the fake one.}}
+}}
+
+{{ft/d|
+{{ft|Mona|See?}}
+}}
+
+{{ft/d|
+{{ft|Charley|Of course! I see now. But that means...}}
+}}
+
+{{ft/d|
+{{ft|Mona|We have a bunch of stranded aliens in our town! This is a job for...}}
+}}
+
+{{ft/d|
+{{ft|Mona|...Mona the Vampire! And Fang.}}
+}}
+
+{{ft/d|
+{{ft|Fang|Meow.}}
+}}
+
+{{ft/d|
+{{ft|Charley|And Zapman!}}
+}}
+
+{{ft/d|
+{{ft|Charley|Have you still got my alien zapper gun? You borrowed it during that last invasion, remember?}}
+}}
+
+{{ft/d|
+{{ft|Charley|Alright! We're all set.}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Parker|Sorry, guys. It'll have to wait. I've got a job for you, Mona.}}
+}}
+
+{{ft/d|
+{{ft|Mona|But this is important!}}
+}}
+
+{{ft/d|
+{{ft|Fang|Meow.}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Parker|So is this.}}
+}}
+
+{{ft/d|
+{{ft|Charley|Um...well...seeya Mona!}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Parker|Our new neighbors are coming by tonight with their daughter. She's your age, so I'd like you to make her feel welcome.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Okay...}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Parker|You can watch a movie together if you want, and have popcorn. Oh, and Mona, no vampires. I don't want her scared right at the start.}}
+}}
+
+{{ft/d|
+{{ft|Mr. Duncan|Hi.}}
+{{ft|Mr. Parker|Hi!}}
+{{ft|Mr. Duncan|How are you?}}
+{{ft|Mr. Parker|How are you?}}
+{{ft|Mr. Duncan|I'm fine, great.}}
+{{ft|Mr. Parker|Come in, come in, come in, come in.}}
+{{ft|Mrs. Duncan|Oh, hi!}}
+{{ft|Mrs. Parker|Hi!}}
+{{ft|Mrs. Duncan|Nice to meet you!}}
+{{ft|Mrs. Parker|Come on in!}}
+}}
+
+{{ft/d|
+{{ft|Fang|Meow.}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Parker|Mona! This is Lily. Lily, that's Mona.}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Parker|Well, we'll leave you two to get acquainted.}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Parker|Oh, you're just gonna love this neighborhood!}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Duncan|What a lovely home! Thanks for inviting us over!}}
+}}
+
+{{ft/d|
+{{ft|Mr. Parker|Oh, come on, let's go into the living room. Anyone for cheese doodles?}}
+}}
+
+{{ft/d|
+{{ft|Fang|Meow.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Come on in!}}
+}}
+
+{{ft/d|
+{{ft|Mona|This is Fang, my cat. Isn't he great?}}
+}}
+
+{{ft/d|
+{{ft|Mona|You wanna play a board game?}}
+}}
+
+{{ft/d|
+{{ft|Mona|Cards?}}
+}}
+
+{{ft/d|
+{{ft|Mona|Watch TV? Read comic books? Listen to music?}}
+}}
+
+{{ft/i|{{c|MANGA}}}}
+
+{{ft/d|
+{{ft|Mona|Okay, just wake me up when you think of something.}}
+{{ft|Fang|Meow.}}
+}}
+
+{{ft/d|
+{{ft|Lily|I wouldn't mind watching this.}}
+}}
+
+{{ft/d|
+{{ft|Mona|''Attack of the Red Moon Monsters''? It's a pretty scary movie. I could get in a lot of trouble if I scare you!}}
+}}
+
+{{ft/i|{{c|moonster}}}}
+
+{{ft/d|
+{{ft|Lily|I've already seen this movie 10 times. It's my favorite!}}
+}}
+
+{{ft/d|
+{{ft|Lily|This is great! I love Moon Monsters!}}
+}}
+
+{{ft/d|
+{{ft|Mona|No offense, but you don't really seem like the type.}}
+}}
+
+{{ft/d|
+{{ft|Lily|Oh, yeah? I've seen this movie and all the sequels—''Return of the Red Moon Monsters'', ''Attack of the Blue Moon Monsters'', ''Return of the Attacking Green Moon Monsters''.}}
+}}
+
+{{ft/d|
+{{ft|Mona|I think I can trust you. I think there are Red Moon Monsters in our town. I discovered their rocket ship this afternoon.}}
+}}
+
+{{ft/d|
+{{ft|Lily|Really?}}
+}}
+
+{{ft/d|
+{{ft|Mona|And not only that, but I'm, well, not just a regular kid! I'm...}}
+}}
+
+{{ft/d|
+{{ft|Mona|...Mona the Vampire!}}
+}}
+
+{{ft/d|
+{{ft|Lily|Wow!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Since you know so much about Red Moon Monsters, you can help me catch them.}}
+}}
+
+{{ft/d|
+{{ft|Lily|Oh, no! I couldn't!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Sure you could! I need a sidekick. So what do you wanna be—super strong, super fast, super stretchy?}}
+}}
+
+{{ft/d|
+{{ft|Lily|Big.}}
+}}
+
+{{ft/d|
+{{ft|Mona|Big?}}
+}}
+
+{{ft/d|
+{{ft|Mona|Not big—giant!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Just one more touch...}}
+}}
+
+{{ft/d|
+{{ft|Mona|My mom's shoes. Introducing, Princess Giant!}}
+}}
+
+{{ft/d|
+{{ft|Lily|What makes you so sure they're in your backyard?}}
+}}
+
+{{ft/d|
+{{ft|Mona|Actually, I'm not sure. But it's late, and my parents won't let us search anywhere else.}}
+}}
+
+{{ft/d|
+{{ft|Lily|Gasp!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Did you hear that?}}
+}}
+
+{{ft/d|
+{{ft|Lily|Ooh!}}
+{{ft|Mona|It sounded like something...flapping!}}
+}}
+
+{{ft/d|
+{{ft|Mona and Lily|Ahh!}}
+}}
+
+{{ft/d|
+{{ft|Mr. Parker|Oh, well, it sounds like you're having a good time!}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Duncan|But it's time to go home, Lily.}}
+}}
+
+{{ft/d|
+{{ft|Lily|Home?}}
+}}
+
+{{ft/d|
+{{ft|Mona and Lily|No!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Lily has to stay the night! We've got plans to make!}}
+}}
+
+{{ft/d|
+{{ft|Mrs. Duncan|Oh, I don't know.}}
+}}
+
+{{ft/d|
+{{ft|Lily|But we're hot on the trail of the Red Moon Monsters.}}
+}}
+
+{{ft/d|
+{{ft|Mr. Parker|Well, since you put it that way...}}
+}}
+
+{{ft/d|
+{{ft|Mona and Lily|Yeah!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Quick, to the vamp-bikes!}}
+}}
+
+{{ft/d|
+{{ft|Lily|Did you know that Red Moon Monsters are highly intelligent and fluent in over 30,000 known cosmic languages?}}
+}}
+
+{{ft/d|
+{{ft|Mona|Yeah, and when they're flying, they can reach speeds of up to 20 miles an hour! They're shapeshifters capable of morphing into...}}
+}}
+
+{{ft/d|
+{{ft|Mona|It's coming closer!}}
+}}
+
+{{ft/d|
+{{ft|Lily|There he goes!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Nice try, Moon Monster, but it isn't mango season!}}
+}}
+
+{{ft/d|
+{{ft|Lily|What do you want here?}}
+}}
+
+{{ft/d|
+{{ft|Red Moon Monster|Why are you chasing me?}}
+}}
+
+{{ft/d|
+{{ft|Lily|Well, uh, because we have to stop you from conquering our world!}}
+}}
+
+{{ft/d|
+{{ft|Red Moon Monster|Ever since that cheesy movie dragged our names through the mud, life hasn't been the same!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Uh, you mean you're not here to turn our insides into oozing protoplasm?}}
+}}
+
+{{ft/d|
+{{ft|Red Moon Monster|Forget about it! We may be Red Moon Monsters, but we're a civilized bunch. Besides, we've got enough to worry about on our own planet. Why would we want yours?}}
+}}
+
+{{ft/d|
+{{ft|Mona|What are you doing here, then?}}
+}}
+
+{{ft/d|
+{{ft|Red Moon Monster|Trying to get home... We was on a rocket cruise through your solar system when we ran into engine trouble, and we had to make an emergency landing in your town. My friends were captured! Only I escaped... I managed to fix our ship, but I can't leave without my buddies!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Do you know where your friends are? Maybe we can help free them!}}
+}}
+
+{{ft/d|
+{{ft|Red Moon Monster|That's hopeless—hopeless, I tell you! The person who captured them is evil personified!}}
+}}
+
+{{ft/d|
+{{ft|Angela|Come on, come on! I have a birthday party to throw! Get those Japanese red lanterns tied up before the wind blows them away!}}
+}}
+
+{{ft/d|
+{{ft|Lily|I guess the Party Depot was out of regular Japanese lanterns.}}
+}}
+
+{{ft/d|
+{{ft|Mona|I have an idea!}}
+}}
+
+{{ft/d|
+{{ft|Angela|Ugh! Who could that be? The party's not for another 20 minutes!}}
+}}
+
+{{ft/d|
+{{ft|Angela|Oh, it's you...}}
+}}
+
+{{ft/d|
+{{ft|Angela|Come in, come in!}}
+}}
+
+{{ft/d|
+{{ft|Lily|Quick! We don't have much time!}}
+}}
+
+{{ft/d|
+{{ft|Mona|Keep going. You're almost there.}}
+}}
+
+{{ft/d|
+{{ft|Angela|A rock?}}
+}}
+
+{{ft/d|
+{{ft|Mona|Actually, a fossilized potato, dating back to the Jurassic period. Pretty neat, huh? So, uh, I gotta go now. Enjoy your party!}}
+}}
+
+{{ft/d|
+{{ft|Angela|Ahh!}}
+}}
+
+{{ft/d|
+{{ft|Angela|Oh, my Japanese red lanterns!}}
+}}
+
+{{ft/d|
+{{ft|Mona and Lily|Fly! Fly! Yeah! Woohoo!}}
+}}
+
+{{ft/d|
+{{ft|Red Moon Monsters|We're free! We're free! We're free! Yahoo! We're free! Three cheers for the little girl!}}
+}}
+
+{{ft/d|
+{{ft|Angela|Oh, my lanterns! My lanterns! My lanterns! My lanterns!}}
+}}
+
+{{ft/d|
+{{ft|Mona|The Moon Monsters got to go home, I made a new friend, and Angela had a miserable birthday party.}}
+}}
+
+{{ft/d|
+{{ft|Charley|I love happy endings!}}
+}}
+
+{{ft/d|
+{{ft|Lily|Well it won't be a happy ending for me...}}
+}}
+
+{{ft/d|
+{{ft|Mr. Parker|Why not? I just ran into your mom, and she told me she got the new job just two blocks away from where she used to work. You're not going anywhere, Lily!}}
+}}
+
+{{ft/d|
+{{ft|Lily|I'm not leaving!}}
+}}
+
+{{ft/d|
+{{ft|Mona and Charley|You're not leaving!}}
+}}
+
+{{ft/d|
+{{ft|Mona|A fire giant finger toast to the Three Musketeers!}}
+{{ft|Charley and Lily|Only scarier!}}
+}}

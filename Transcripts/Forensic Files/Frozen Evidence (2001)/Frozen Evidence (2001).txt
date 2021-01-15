@@ -1,0 +1,425 @@
+{{header
+ | title       = [[../]]
+ | author      = | override_author= [[Portal:Medstar Television|Medstar]]
+ | translator  =
+ | section     = "Frozen Evidence"
+ | previous    = "[[../Mistaken for Dead|Mistaken for Dead]]"
+ | next        = "[[../Soft Touch|Soft Touch]]"
+ | year        = 2001
+ | notes       = Concerns the 1992 armed robbery of Ward and Diana Maracle, and attempted murder of Ward, in their home at the {{w|Tyendinaga Mohawk Territory}}, Ontario, Canada {{Film|Two Wet Bears.webm|thumbtime=|size=400px}}
+}}
+
+{{ft/s|{{c|{{xxxx-larger|FilmRise}}}}}}
+
+{{ft/d|
+{{ft|Narrator|In 1992, two masked gunmen broke into this home on the {{w|Tyendinaga Mohawk Territory}} in Canada. The motive was robbery. But there was a struggle. Shots were fired, leaving 54-year-old Ward Maracle critically injured. It took solid police investigation and some fancy footwork to identify the perpetrators.}}
+}}
+
+{{ft/s|{{gap|2em}}{{xxx-larger|FORENSIC}}<br>{{gap|8em}}{{xxx-larger|{{cursive|Files}}}}<br><br>{{gap|4em}}FROZEN EVIDENCE
+}}
+
+{{ft/d|
+{{ft|Narrator|The {{w|Tyendinaga Mohawk Territory}} is a small community about two hours east of Toronto, Canada. The Territory was founded over 200 years ago, when the Mohawk moved here from Upstate New York. The homes and landscape of the area are no different from any other North American community, but the sense of family among the Mohawk is especially strong.}}
+}}
+
+{{ft/i|{{c|{{w|Tyendinaga Mohawk Territory|{{larger|Tyendinaga}}<br>MOHAWK TERRITORY}}}}}}
+
+{{ft/d|
+{{ft|Alan Brant|It doesn't appear to be any different than anywhere else in Canada or the US in what I would call, per lack of a better term, mainstream culture, but like I say, the {{SIC|differences is|differences are}} in the people.}}
+}}
+
+{{ft/s|ALAN BRANT<br>{{smaller|TYENDINAGA HISTORIAN}}}}
+
+{{ft/d|
+{{ft|Mike Hill|In this community it's...there's a lot of blood family, but even if you're not related, you know everybody pretty close, so it's like being family.}}
+}}
+
+{{ft/s|CONSTABLE MIKE HILL<br>{{smaller|LEAD INVESTIGATOR}}}}
+
+{{ft/d|
+{{ft|Narrator|Ward and Diana Maracle were respected
+members of the community.}}
+}}
+
+{{ft/i|{{c|Ward's Gas Bar}}}}
+
+{{ft/d|
+{{ft|Narrator|Ward's Gas Bar, the Maracles' business, a gas station with a restaurant attached, had always been a prosperous business. At night, they also operated a check-cashing service from their home for people who didn't have an ATM card.}}
+}}
+
+{{ft/d|
+{{ft|Alan Brant|Everybody knows Ward and Diane, the business there as well, have contact with them. They're good people.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|At Christmas time, residents of the reserve celebrate the holiday just like any other community—with Santa Claus, Christmas lights, and prayer. But in the early morning hours of December 30, 1992, the holiday spirit of the community was shattered.}}
+}}
+
+{{ft/d|
+{{ft|Gunman|Ward? Oh, Ward? I want to talk to you.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Just before dawn, two masked gunmen broke into the Maracles' home.}}
+}}
+
+{{ft/d|
+{{ft|Gunman|Ward, we're coming to see you!}}
+}}
+
+{{ft/d|
+{{ft|Narrator|They went upstairs, woke Ward and Diana, and demanded money.}}
+}}
+
+{{ft/d|
+{{ft|Gunman|Get out of bed and give me the money!}}
+{{ft|Ward Maracle|Take it easy!}}
+{{ft|Gunman|Where's the money? Give me the money! Just shut up and give me the money!}}
+}}
+
+{{ft/d|
+{{ft|Narrator|One was holding a {{w|.22 caliber}} pistol—the other, a piece of wood.}}
+}}
+
+{{ft/d|
+{{ft|Ward Maracle|Just take it easy.}}
+{{ft|Gunman|Just shut up and give me the money!}}
+{{ft|Ward Maracle|Take it easy! Just don't hurt anybody.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Ward resisted. Shots rang out. By the time it was over, Ward had been shot three times. The second perpetrator took Diana downstairs. Fearing for her life, Diana handed over the money they had on hand, $10,000 in cash. And the intruders quickly fled.}}
+}}
+
+{{ft/d|
+{{ft|9-1-1 operator|{{w|Belleville, Ontario|Belleville}} City Police, Emergency.}}
+{{ft|Woman caller|Uh, we've got a shooting down here on the reserve. We will need an ambulance. Please hurry.}}
+{{ft|9-1-1 operator|OK, ma'am.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Ward Maracle was rushed to the hospital with a bullet wound to his head. He underwent emergency surgery. Most wounds to the head are fatal.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Since the gunmen wore masks, all Diana could tell police was that the assailants made their getaway in a red car. A few miles down the road, police found the two masks used in the robbery. One was a wool ski mask—the other, a rubber Halloween mask. Inside the Maracles' home, police found three shell casings, which were collected for analysis.}}
+}}
+
+{{ft/d|
+{{ft|Finn Nielsen|The caliber... In this case, I believe they were {{w|.22 Short}} caliber. The fact they are out on the ground would indicate that, more than likely, a semiautomatic pistol, as opposed to a revolver, was used.}}
+}}
+
+{{ft/s|FINN NIELSEN<br>{{smaller|FIRE ARMS EXAMINER}}}}
+
+{{ft/d|
+{{ft|Narrator|Since the stairs had no carpet and with snow outside, investigators suspected that the perpetrators' wet feet might have left latent shoe impressions on the stairs. The stairs were dusted with fingerprint powder, and immediately, a clear impression of a running shoe was evident. Outside the house, forensic experts found a trail of evidence in the snow, which they hoped would lead them to the perpetrators.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|During the Christmas holidays in 1992, residents of the {{w|Tyendinaga Mohawk Territory}} learned the terrible news that one of their most prominent citizens, Ward Maracle, had been the victim of a senseless shooting. There is very little violent crime in this small community of 2,600 people.}}
+}}
+
+{{ft/d|
+{{ft|Alan Brant|Shock, initially, that something of this magnitude could happen in a community such as this.}}
+}}
+
+{{ft/s|ALAN BRANT<br>{{smaller|TYENDINAGA HISTORIAN}}}}
+
+{{ft/d|
+{{ft|Ward Maracle|Just take it easy.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Ward Maracle was shot three times by a {{w|.22 caliber}} pistol. One of the bullets entered his head. But he was fortunate; he survived. But the injury would leave him permanently disabled.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Forensic scientist Jim Eadie inspected the crime scene. He noticed a piece of wood on the kitchen table. Diana Maracle told police one of the perpetrators held the wood in his hand during the robbery. When Eadie walked outside, on the side of the house he found a wooden sawhorse with one of the legs missing. It appeared that the perpetrators took the leg from the sawhorse and used it to break through the front door. Next to the sawhorse, clearly visible in the bright December sunshine, was a footprint in the snow.}}
+}}
+
+{{ft/d|
+{{ft|Jim Eadie|And when I looked, I could see footprints in the area of the sawhorse. I was certain that somebody had gone back behind the house and got the sawhorse and ripped a leg off. There was a potential piece of very important evidence.}}
+}}
+
+{{ft/s|CONSTABLE JIM EADIE<br>{{smaller|FORENSIC ANALYST}}}}
+
+{{ft/d|
+{{ft|Narrator|Jim Eadie realized he had to act quickly before the snow melted, and before anyone else walked through the crime scene. His first order of business was to photograph the footprints. These stills would be important, especially if he was unable to make a cast of the footprint. He then rushed to his truck and looked
+for materials to make a mold. There are a number of techniques for capturing a footprint impression in the snow. If you choose the wrong one, the impression could be lost forever.}}
+}}
+
+{{ft/d|
+{{ft|Jim Eadie|Snow presents interesting problems, because if you use conventional casting materials, such as dental plaster, it's really very heavy. Dental plaster hardens to stone. And if you pour it into snow, it tends to collapse the footprint because of the weight.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Detective Eadie decided on a technique called sulfur casting. He took a small burner and a pot and heated the powdered sulfur. It takes about fifteen minutes before it melts into a thick brown liquid. It's then cooled to the point above crystallization. As it poured into the snow, the sulfur recrystallizes immediately and hardens, retaining the important details needed for identification. The impression was from a pair of {{w|Nike Air}} sneakers, size 8. The shoe was relatively new, with very little wear. In the impression were some important clues about the perpetrator, details called accidental characteristics.}}
+}}
+
+{{ft/d|
+{{ft|Jim Eadie|And the part of the shoe that's going to be rubbing against the road and against the sidewalk, and that has those accidental characteristics that we're going to be looking for— And an accidental characteristic is not just a little point. Oftentimes, it's like a mini piece of art.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Eadie noticed three small cuts all in a row on the sole, as if the wearer had stepped on a small piece of wire. In all, Jim Eadie identified ten accidental characteristics in the shoe impression. These would distinguish this particular shoe from the thousands of other Nike Air size 8 running shoes that were in circulation. Not surprisingly, the shoe impression in the snow matched the shoe print on the wooden steps inside the home.}}
+}}
+
+{{ft/d|
+{{ft|Jim Eadie|We'd recovered some very good evidence. We had shoe prints. We had brass casings. The difficulty is that, unlike fingerprints, which can be searched on a computer and identified, in the case of bullet casings or shoe prints, you need a suspect.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|But finding a suspect would not be easy.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|The robbery and shooting of Ward Maracle on the {{w|Tyendinaga Mohawk Reserve}} was widely covered
+by the media in the surrounding areas. Two days after the shooting, an anonymous telephone call suggested police look into the whereabouts of Peter Benedict and Frank Lanoue in the early morning hours of December 30. Both men were 21 years old. Both had criminal records. Benedict lived in {{w|Cornwall, Ontario|Cornwall}}, which is about an hour's drive from the reserve. Police had no fixed address for Lanoue.}}
+}}
+
+{{ft/i|
+{{c|'''Two sought in shooting'''}}
+
+''Police seek help after local businessman shot''
+
+{{w|Belleville, Ontario|Belleville}} Police issued an urgent appeal Wednesday for help in catching two masked bandits who shot a 54-year-old businessman at his home on the {{w|Tyendinaga Mohawk Reserve|Tyendinaga Mohawk reserve}}.
+
+Ward Maracle was reported in
+
+[...]
+
+[...]
+
+of here.
+
+Bob Bowden, one of his employees, got a call from Diana Maracle shortly after the shooting and raced to the couple's home.
+
+He found Maracle sitting in a chair near the front door, his head and body bleeding.
+
+"Ward was conscious and I remember him saying that he had a headache," Bowden said.
+
+Maracle's wife was standing
+
+[...]
+}}
+
+{{ft/i|
+{{c|'''Tyendinaga shooting'''}}
+
+Ward Maracle, 54, was shot three times by two masked gunmen at his Court (Provincial Division) in {{w|Belleville, Ontario|Belleville}} today for a bail hearing.
+
+A warrant has been issued for a man suspected of being involved in the early morning attack. Police are looking for 21-year-old Frank Lanoue of no fixed address.
+
+Ward Maracle, 54, was shot three times by two masked gunmen at his home on the reserve on Dec. 30. Maracle and his wife Diana were awakened by intruders and the man was shot while struggling with the suspects. His wife escaped to call police.
+
+A substantial amount of cash was stolen from the home.
+
+Maracle is in serious condition at {{w|Belleville, Ontario|Belleville}} General Hospital.
+}}
+
+{{ft/i|
+{{c|'''Police seek assistance to nab armed robbers'''}}
+
+{{w|Bay of Quinte|Quinte}} Crime Stoppers in co-operation with the {{w|Tyendinaga Mohawk Territory|Tyendinaga}} Police Service are requesting your assistance in apprehending the persons responsible for an armed robbery and attempted murder which occurred on Wednesday, Dec. 30, 1992.
+
+[...] approximately 5:30 a.m. two masked males forced their [...] residence of Ward Maracle who resides with his [...] Reserve.
+
+[...] victim's bedroom which is located [...] The "robbers" were [...] of lumber.
+}}
+
+{{ft/i|{{c|'''Break-in'''}}}}
+
+{{ft/d|
+{{ft|Narrator|Police went to Peter Benedict's apartment armed with a search warrant. Outside Benedict's apartment, police noticed a red car, similar to the one Diana Maracle identified as the getaway car. Peter Benedict denied any involvement in the crime, and said he didn't know where Frank Lanoue was. Inside Benedict's apartment, police found a {{w|.22 caliber}} pistol, the same caliber used in the shooting. They also found a number of pairs of running shoes, but none were the {{w|Nike Air}} model size 8 like the impressions found at the crime scene. Police also found $2,500 in cash, and Benedict was wearing what looked to be a very expensive ring. In Benedict's bedroom, police found a receipt for the ring. It was purchased on December 31, just hours after the robbery at the Maracles' homes. The ring was purchased with $1,100 in cash from a jewelry store in Ottawa.}}
+}}
+
+{{ft/d|
+{{ft|Rick Myers|We went out to the car and we searched the vehicle after that. And in the trunk, I found an {{w|Aldo Group|Aldo}} shoe box. So I'm thinking, well, Aldo shoe box, brand new running shoes, brand new ring—I'm going to Ottawa, because there has to be a story to be told in Ottawa and I wanted to hear the story.}}
+}}
+
+{{ft/s|DET. SGT. RICK MYERS<br>{{smaller|UNIT COMMANDER}}}}
+
+{{ft/d|
+{{ft|Narrator|Once he got to the mall, Rick Myers discovered that there were a number of shoe stores in the mall. He patiently visited each one, asking store employees if they recognized Benedict or Lanoue as a recent customer.}}
+}}
+
+{{ft/d|
+{{ft|Rick Myers|Hey, you work here?}}
+{{ft|Employee|Yeah.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|The last store that he visited was a {{w|Foot Locker}}, and he got a break.}}
+}}
+
+{{ft/d|
+{{ft|Rick Myers|I'm Detective Myers, and we're trying to find this gentleman here. Have you seen this guy? You seen him?}}
+{{ft|Employee|I think he came in a couple of days ago, actually.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|The store clerk recognized Peter Benedict from the mug shot.}}
+}}
+
+{{ft/d|
+{{ft|Employee|I think he threw away his old—}}
+}}
+
+{{ft/d|
+{{ft|Narrator|He said Benedict bought a pair of running shoes just a few days earlier. And he recalled that Benedict wore the new shoes out of the store and left his old pair behind.}}
+}}
+
+{{ft/d|
+{{ft|Rick Myers|He just simply gave up the old ones for garbage, and just wore his new ones home. I asked if he would check to see if the old ones were still around. He told me that no, the garbage had gone out Friday. I was insistent that he go and recheck, 'cause it's always good to recheck everything, particularly when you're so close in this type of investigation to getting something that you really want.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Fortunately for investigators, the trash hadn't been removed from the back room. And in the trash bin, the clerk found the sneakers Benedict left behind.}}
+}}
+
+{{ft/d|
+{{ft|Rick Myers|He did, and sure enough, he comes back dangling the shoes and a very nice smile on his face, and there was an even bigger one on mine.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|They were size 8 {{w|Nike Air}} charcoal high-top basketball shoes. But were they the ones worn to the crime scene? When Jim Eadie analyzed the shoes from the trash bin, he discovered the shoe had ten accidental characteristics, which were in the same location, the same shape and size as those found on the shoe impression in the snow and on the steps. Investigators now knew that Peter Benedict took part in the robbery.}}
+}}
+
+{{ft/d|
+{{ft|Gunman|OK, here we are, Ward. Get out of bed and give me the money. Where is it? Give me the money.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|But was he the shooter? And where was Frank Lanoue?}}
+}}
+
+{{ft/d|
+{{ft|Gunman|Just shut up. I want the money.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Could the masks somehow identify who pulled the trigger?}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Within a week of the robbery and shooting of Ward Maracle on the {{w|Tyendinaga Mohawk Reserve}} in Canada, police had two suspects, Peter Benedict and Frank Lanoue. Peter Benedict was already in custody, and Frank Lanoue voluntarily came into police headquarters for questioning. Both denied any involvement in the crime. But the evidence against Peter Benedict was mounting quickly. The shoes he left at the shoe store were positively identified as the shoes which left the print on the Maracles' stairway, and in the snow print outside their home. Next, Benedict's {{w|.22 caliber}} gun was tested by ballistics.}}
+}}
+
+{{ft/d|
+{{ft|Finn Nielsen|Alright, this pistol here is a {{w|Beretta 950|Beretta Model 950B}}. It's a semiautomatic pistol, a {{w|.22 Short}} caliber, which is really the smallest caliber that's used in handguns. It doesn't look like much, it's just a .22. They'll kill you just as dead as the bigger calibers will.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|The bullets recovered from Ward Maracle in the operating room were too badly damaged for forensic analysis.}}
+}}
+
+{{ft/d|
+{{ft|Finn Nielsen|.22s, when they hit bone on head shots, are usually useless. They're projectiles. They'll break up very, very badly.}}
+}}
+
+{{ft/s|FINN NIELSEN<br>{{smaller|FIRE ARMS EXAMINER}}}}
+
+{{ft/d|
+{{ft|Narrator|So investigators used the spent shell casings found in the Maracles' home for comparison. Benedict's gun was test fired in the ballistics laboratory. The act of pulling a trigger causes the firing pin to strike the primer, which ignites the powder, propelling the bullet through the barrel. Simultaneously, the spent shell casing is pushed back with equal force. Just as the bullet is marked by its passage through the barrel, so is the shell, as it comes into contact with the metal surfaces of the weapon's firing and loading mechanisms. Firing pin impressions are as unique as a fingerprint. The firing pin impressions on the shell casings test fired from Benedict's gun were identical to the impressions on the three shell casings found inside the Maracles' home.}}
+}}
+
+{{ft/d|
+{{ft|Finn Nielsen|It's still you looking at it, and your training and your experience that causes you to reach a conclusion. And in this case, what I saw, and my predecessor saw, whom I trained, indicated to us, yes, those cartridge cases were fired in that gun and no other.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|The money found in Peter Benedict's apartment had numbers written by hand on the bundles. They matched Diana Maracle's handwriting. Not surprisingly, inside Benedict's car on the driver's side were Peter Benedict's fingerprints, but on the passenger side were Frank Lanoue's.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|The last challenge for investigators was to discover which one of these two suspects was the shooter. Diana Maracle said the gunman was wearing the wool ski mask. The man in the rubber mask held the piece of wood.}}
+}}
+
+{{ft/d|
+{{ft|Gunman|Just shut up, and give me the money!}}
+{{ft|Ward Maracle|I'll take you to the money.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|Scientists were able to identify traces of saliva and mucus inside the masks, and from that, they were able to generate a DNA profile of the individuals who wore each mask. When police compared the DNA of Frank Lanoue and Peter Benedict, they discovered that Peter Benedict's DNA was inside the rubber mask, and that Frank Lanoue's DNA was inside the wool mask. This identified Frank Lanoue as the shooter.}}
+}}
+
+{{ft/d|
+{{ft|Narrator|When Peter Benedict and Frank Lanoue learned about the overwhelming forensic evidence against them, they both pleaded guilty to aggravated assault and robbery. They were each sentenced to six years in prison.}}
+}}
+
+{{ft/i|
+{{c|'''Duo gets 6-years for shooting'''}}
+
+''Judge tells future gunmen will "pay big time"''
+}}
+
+{{ft/d|
+{{ft|Narrator|Ward Maracle eventually recovered from his injuries after a long and difficult rehabilitation. Published reports say he still has lingering problems resulting from the head injury. He and Diana still live and work on the Mohawk Reserve. To this day, Ward and Diana Maracle refuse to talk about what happened in the early morning hours of December 30, 1992.}}
+}}
+
+{{ft/d|
+{{ft|Rick Myers|It was a great case. It was a classic, you know, one of the many highlights of my career. I enjoyed that case. It was a very exciting day for me when I saw those running shoes come waltzing out from behind the back room.}}
+}}
+
+{{ft/s|DET. SGT. RICK MYERS<br>{{smaller|UNIT COMMANDER}}}}
+
+{{ft/d|
+{{ft|Jim Eadie|I believe that the shoe print evidence that we were working with was very strong evidence. And it was very strong evidence at the preliminary hearing. And... and I think... I feel like I'm bragging.}}
+}}
+
+{{ft/s|CONSTABLE JIM EADIE<br>{{smaller|FORENSIC ANALYST}}}}
+
+{{ft/s|
+Narrator<br><br>{{w|Peter Thomas (announcer)|PETER THOMAS}}
+}}
+
+{{ft/s|
+Executive Producer<br><br>PAUL DOWLING
+}}
+
+{{ft/s|
+Senior Producer<br><br>DAVID BENNETT WASSER<br><br><br>Producer<br><br>BILL BROWNE<br><br><br>Assistant Producers<br><br>THERESA VRABEL<br>SCOTT BOVE
+}}
+
+{{ft/s|
+Senior Editor<br><br>RICH LOUGHRIDGE<br><br><br>Editors<br><br>MIKE PUNZO<br>COLE CULLEN<br>DAVID KEITH<br><br><br>Art Director<br><br>JAMES W. KELLEY<br><br><br>Graphic Artist<br><br>JIM HARPER
+}}
+
+{{ft/s|
+Director of Photography<br><br>VINCE ELLIS<br><br><br>Casting<br><br>ROY STEINBERG
+}}
+
+{{ft/s|
+Music Composed by<br><br>ALAN ETT MUSIC GROUP<br><br><br>Audio Post<br><br>CREATIVE SOUND STUDIOS
+}}
+
+{{ft/s|
+Production Assistants<br><br>PAT QUINN<br>JAY LINDEMEYER<br>RYAN GARDNER<br>CARMINE FALZARANO<br>JASON DEITZEL<br>JOSH MILL
+}}
+
+{{ft/s|
+Special Thanks<br><br>TYENDINAGA FIRST NATIONS POLICE DEPARTMENT<br>{{w|Ontario Provincial Police|ONTARIO PROVINCIAL POLICE}}
+}}
+
+{{ft/s|
+Visit Our Website<br><br>www.FORENSICFILES.com
+}}
+
+{{ft/s|
+{{c|PRODUCED BY}}
+
+
+{{c|''MEDSTAR''<sup>®</sup>}}
+
+
+{{c|COPYRIGHT MMIV MEDSTAR TELEVISION INC.<br>ALL RIGHTS RESERVED}}
+}}
+
+{{ft/s|{{c|{{xxxx-larger|FilmRise}}}}}}
+
+{{license
+ | image    = PD-icon.svg
+ | image_r  = Flag of the United States.svg
+ | category = PD-1923
+ | text     = {{license scope}} in the '''[[w:public domain|public domain]]''' in the United States because {{#switch:{{NAMESPACE}}|Author=they were|it was}} published before January 1, 2010. It may be copyrighted outside the U.S. (see [[Help:Public domain]]).|}}
